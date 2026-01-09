@@ -1,0 +1,5005 @@
+{
+  "title": "ターゲット1000",
+  "items": [
+    {
+      "no": 1,
+      "en": "a piece of ~",
+      "ja": "1つの〜"
+    },
+    {
+      "no": 2,
+      "en": "a couple of ~",
+      "ja": "2つの〜"
+    },
+    {
+      "no": 3,
+      "en": "a number of ~",
+      "ja": "いくつもの〜、かなり多くの〜"
+    },
+    {
+      "no": 4,
+      "en": "dozens of ~",
+      "ja": "数十もの〜、何ダースもの〜"
+    },
+    {
+      "no": 5,
+      "en": "plenty of ~",
+      "ja": "たくさんの〜"
+    },
+    {
+      "no": 6,
+      "en": "a great deal (of~)",
+      "ja": "たくさん"
+    },
+    {
+      "no": 7,
+      "en": "at home",
+      "ja": "在宅して、家庭で"
+    },
+    {
+      "no": 8,
+      "en": "in time",
+      "ja": "間に合って"
+    },
+    {
+      "no": 9,
+      "en": "in fashion",
+      "ja": "流行して"
+    },
+    {
+      "no": 10,
+      "en": "on time",
+      "ja": "時間どおりに"
+    },
+    {
+      "no": 11,
+      "en": "on duty",
+      "ja": "当番で、勤務時間中で"
+    },
+    {
+      "no": 12,
+      "en": "on schedule",
+      "ja": "予定どおりで、定時に"
+    },
+    {
+      "no": 13,
+      "en": "up to date",
+      "ja": "最新の"
+    },
+    {
+      "no": 14,
+      "en": "be aware of ~",
+      "ja": "〜に気がついている、〜を知っている"
+    },
+    {
+      "no": 15,
+      "en": "be made of ~",
+      "ja": "〜でできている"
+    },
+    {
+      "no": 16,
+      "en": "be capable of ~",
+      "ja": "〜ができる、〜の可能性がある"
+    },
+    {
+      "no": 17,
+      "en": "be afraid of ~",
+      "ja": "〜を恐れる、〜を心配している"
+    },
+    {
+      "no": 18,
+      "en": "be sure of ~",
+      "ja": "〜を確信している"
+    },
+    {
+      "no": 19,
+      "en": "be composed of ~",
+      "ja": "〜から構成されている"
+    },
+    {
+      "no": 20,
+      "en": "be based on ~",
+      "ja": "〜に基づいている"
+    },
+    {
+      "no": 21,
+      "en": "be different from ~",
+      "ja": "〜とは違っている"
+    },
+    {
+      "no": 22,
+      "en": "be absent from~",
+      "ja": "〜を欠席する"
+    },
+    {
+      "no": 23,
+      "en": "be engaged in ~",
+      "ja": "〜に従事している、忙しく〜をしている"
+    },
+    {
+      "no": 24,
+      "en": "be responsible for ~",
+      "ja": "〜に責任がある"
+    },
+    {
+      "no": 25,
+      "en": "be married (to ~)",
+      "ja": "結婚している"
+    },
+    {
+      "no": 26,
+      "en": "be satisfied with ~",
+      "ja": "〜に満足している"
+    },
+    {
+      "no": 27,
+      "en": "be curious about ~",
+      "ja": "〜を知りたがる. 〜に好奇心の強い"
+    },
+    {
+      "no": 28,
+      "en": "be well off",
+      "ja": "裕福である"
+    },
+    {
+      "no": 29,
+      "en": "be likely to do",
+      "ja": "…しそうである"
+    },
+    {
+      "no": 30,
+      "en": "be willing to do",
+      "ja": "…しても構わない"
+    },
+    {
+      "no": 31,
+      "en": "be about to do",
+      "ja": "今にも…しようとしている"
+    },
+    {
+      "no": 32,
+      "en": "lead to ~",
+      "ja": "〜を引き起こす、〜へ通じる"
+    },
+    {
+      "no": 33,
+      "en": "refer to ~",
+      "ja": "〜に言及する"
+    },
+    {
+      "no": 34,
+      "en": "contribute to ~",
+      "ja": "〜の一員となる、〜に貢献する、〜に寄付する"
+    },
+    {
+      "no": 35,
+      "en": "amount to ~",
+      "ja": "統計〜になる"
+    },
+    {
+      "no": 36,
+      "en": "depend on ~",
+      "ja": "〜に頼る、〜しだいである"
+    },
+    {
+      "no": 37,
+      "en": "focus on ~",
+      "ja": "〜に集中する、〜に焦点を合わせる"
+    },
+    {
+      "no": 38,
+      "en": "rely on ~",
+      "ja": "〜に頼る"
+    },
+    {
+      "no": 39,
+      "en": "get on ~",
+      "ja": "に乗る"
+    },
+    {
+      "no": 40,
+      "en": "insist  on ~",
+      "ja": "〜を主張する"
+    },
+    {
+      "no": 41,
+      "en": "concentrate on ~",
+      "ja": "〜に集中する"
+    },
+    {
+      "no": 42,
+      "en": "look for ~",
+      "ja": "〜を探す"
+    },
+    {
+      "no": 43,
+      "en": "search for ~",
+      "ja": "〜を探す"
+    },
+    {
+      "no": 44,
+      "en": "prepare for ~",
+      "ja": "〜の準備をする、〜に備える"
+    },
+    {
+      "no": 45,
+      "en": "think of ~",
+      "ja": "〜をしようかなと思う、〜のことを考える"
+    },
+    {
+      "no": 46,
+      "en": "consist of ~",
+      "ja": "〜から成り立っている"
+    },
+    {
+      "no": 47,
+      "en": "complain about ~",
+      "ja": "を訴える、〜について不平を言う"
+    },
+    {
+      "no": 48,
+      "en": "die of ~",
+      "ja": "〜で死ぬ"
+    },
+    {
+      "no": 49,
+      "en": "suffer from ~",
+      "ja": "で苦しむ"
+    },
+    {
+      "no": 50,
+      "en": "result from ~",
+      "ja": "〜から起こる"
+    },
+    {
+      "no": 51,
+      "en": "graduate from ~",
+      "ja": "〜を卒業する"
+    },
+    {
+      "no": 52,
+      "en": "differ from ~",
+      "ja": "〜と異なる"
+    },
+    {
+      "no": 53,
+      "en": "recover from ~",
+      "ja": "〜から立ち直る"
+    },
+    {
+      "no": 54,
+      "en": "hear from ~",
+      "ja": "〜から便りがある"
+    },
+    {
+      "no": 55,
+      "en": "believe in ~",
+      "ja": "〜の価値を信じる、〜を信用する"
+    },
+    {
+      "no": 56,
+      "en": "succeed in ~",
+      "ja": "〜に成功する"
+    },
+    {
+      "no": 57,
+      "en": "major in ~",
+      "ja": "を専攻する"
+    },
+    {
+      "no": 58,
+      "en": "abundant in ~",
+      "ja": "〜に富む"
+    },
+    {
+      "no": 59,
+      "en": "care about ~",
+      "ja": "〜を気にかける、〜に関心を持つ"
+    },
+    {
+      "no": 60,
+      "en": "bring about ~",
+      "ja": "〜を引き起こす"
+    },
+    {
+      "no": 61,
+      "en": "deal with ~",
+      "ja": "〜を扱う、〜を処理する"
+    },
+    {
+      "no": 62,
+      "en": "go through ~",
+      "ja": "〜を通過する"
+    },
+    {
+      "no": 63,
+      "en": "give up ~",
+      "ja": "〜をあきらめる、〜を捨てる"
+    },
+    {
+      "no": 64,
+      "en": "grow up ~",
+      "ja": "大人になる、生じる"
+    },
+    {
+      "no": 65,
+      "en": "pick up ~",
+      "ja": "を乗せる〜を拾う"
+    },
+    {
+      "no": 66,
+      "en": "set up ~",
+      "ja": "〜を立てる、〜を創設する"
+    },
+    {
+      "no": 67,
+      "en": "wake up",
+      "ja": "目が覚める、の目を覚まさせる"
+    },
+    {
+      "no": 68,
+      "en": "brush up ~",
+      "ja": "をやり直して磨きをかける"
+    },
+    {
+      "no": 69,
+      "en": "find out ~",
+      "ja": "を見つけ出す、を知る"
+    },
+    {
+      "no": 70,
+      "en": "carry out ~",
+      "ja": "〜を実行する"
+    },
+    {
+      "no": 71,
+      "en": "point out ~",
+      "ja": "〜を指摘する"
+    },
+    {
+      "no": 72,
+      "en": "figure out ~",
+      "ja": "〜を理解する、〜を計算する、〜を解く"
+    },
+    {
+      "no": 73,
+      "en": "turn out",
+      "ja": "〜であることがわかる、〜になる"
+    },
+    {
+      "no": 74,
+      "en": "fill out ~",
+      "ja": "〜に書き込む"
+    },
+    {
+      "no": 75,
+      "en": "pick out ~",
+      "ja": "〜を選ぶ"
+    },
+    {
+      "no": 76,
+      "en": "put on ~",
+      "ja": "〜をつける"
+    },
+    {
+      "no": 77,
+      "en": "work on",
+      "ja": "働き続ける"
+    },
+    {
+      "no": 78,
+      "en": "try on ~",
+      "ja": "〜を試着する"
+    },
+    {
+      "no": 79,
+      "en": "turn on",
+      "ja": "をつける、を出す、つく"
+    },
+    {
+      "no": 80,
+      "en": "turn off",
+      "ja": "を消す、を止める、消える"
+    },
+    {
+      "no": 81,
+      "en": "take off",
+      "ja": "〜を脱ぐ"
+    },
+    {
+      "no": 82,
+      "en": "get along",
+      "ja": "暮らす、やっていく"
+    },
+    {
+      "no": 83,
+      "en": "get together",
+      "ja": "集まる、〜を集める"
+    },
+    {
+      "no": 84,
+      "en": "calm down",
+      "ja": "〜を落ち着かせる、落ち着く"
+    },
+    {
+      "no": 85,
+      "en": "think over ~",
+      "ja": "〜をよく考える"
+    },
+    {
+      "no": 86,
+      "en": "keep doing",
+      "ja": "…し続ける"
+    },
+    {
+      "no": 87,
+      "en": "take place",
+      "ja": "催促される、怒る"
+    },
+    {
+      "no": 88,
+      "en": "play a role (in ~)",
+      "ja": "役割を演じる"
+    },
+    {
+      "no": 89,
+      "en": "make sure",
+      "ja": "確かめる、確実に〜をする"
+    },
+    {
+      "no": 90,
+      "en": "make sense",
+      "ja": "意味をなす、道理にかなう"
+    },
+    {
+      "no": 91,
+      "en": "make a difference",
+      "ja": "違いが生じる、重要である"
+    },
+    {
+      "no": 92,
+      "en": "make a mistake",
+      "ja": "間違いをする"
+    },
+    {
+      "no": 93,
+      "en": "make progress",
+      "ja": "進歩する"
+    },
+    {
+      "no": 94,
+      "en": "make up one's mind",
+      "ja": "決心する"
+    },
+    {
+      "no": 95,
+      "en": "do one's best",
+      "ja": "最善を尽くす"
+    },
+    {
+      "no": 96,
+      "en": "keep one's promise",
+      "ja": "約束を守る"
+    },
+    {
+      "no": 97,
+      "en": "get lost",
+      "ja": "道に迷う"
+    },
+    {
+      "no": 98,
+      "en": "enjoy oneself",
+      "ja": "楽しい時を過ごす"
+    },
+    {
+      "no": 99,
+      "en": "have ~ off",
+      "ja": "〜を休みとして取る"
+    },
+    {
+      "no": 100,
+      "en": "pay attention to ~",
+      "ja": "〜に注意を払う"
+    },
+    {
+      "no": 101,
+      "en": "take care of ~",
+      "ja": "〜に気をつける、〜の世話をする"
+    },
+    {
+      "no": 102,
+      "en": "look forward to ~",
+      "ja": "〜を楽しみに待つ"
+    },
+    {
+      "no": 103,
+      "en": "ask for ~",
+      "ja": "〜を求める"
+    },
+    {
+      "no": 104,
+      "en": "get rid of ~",
+      "ja": "を取り除く"
+    },
+    {
+      "no": 105,
+      "en": "fall in love with ~",
+      "ja": "〜を大好きになる、と恋に落ちる"
+    },
+    {
+      "no": 106,
+      "en": "used to do",
+      "ja": "…したものだった、昔は〜であった"
+    },
+    {
+      "no": 107,
+      "en": "had better do",
+      "ja": "…したほうがいい、…すべきだ"
+    },
+    {
+      "no": 108,
+      "en": "help A with B",
+      "ja": "AのBを手伝う、AをBで助ける"
+    },
+    {
+      "no": 109,
+      "en": "prefer A to B",
+      "ja": "BよりAを好む"
+    },
+    {
+      "no": 110,
+      "en": "turn A into B",
+      "ja": "AをBに変える"
+    },
+    {
+      "no": 111,
+      "en": "prevent A from B",
+      "ja": "AがBするのを妨げる、AをBから防ぐ"
+    },
+    {
+      "no": 112,
+      "en": "remind A of B",
+      "ja": "AにBを思い出させる"
+    },
+    {
+      "no": 113,
+      "en": "regard A as B",
+      "ja": "AをBと見なす"
+    },
+    {
+      "no": 114,
+      "en": "associate A with B",
+      "ja": "AをBと結びつけて考える"
+    },
+    {
+      "no": 115,
+      "en": "inform A of B",
+      "ja": "AにBを知らせる"
+    },
+    {
+      "no": 116,
+      "en": "after all",
+      "ja": "結局は、やっぱり"
+    },
+    {
+      "no": 117,
+      "en": "all the time",
+      "ja": "いつも、常に"
+    },
+    {
+      "no": 118,
+      "en": "all the way",
+      "ja": "ずっと、はるばる"
+    },
+    {
+      "no": 119,
+      "en": "~ and so on",
+      "ja": "〜など"
+    },
+    {
+      "no": 120,
+      "en": "and yet",
+      "ja": "それにもかかわらず"
+    },
+    {
+      "no": 121,
+      "en": "as ~ as possible",
+      "ja": "できる限り〜"
+    },
+    {
+      "no": 122,
+      "en": "as a result (of ~)",
+      "ja": "結果として"
+    },
+    {
+      "no": 123,
+      "en": "as a whole",
+      "ja": "全体として"
+    },
+    {
+      "no": 124,
+      "en": "as usual",
+      "ja": "いつものように"
+    },
+    {
+      "no": 125,
+      "en": "at best",
+      "ja": "よくても、せいぜい"
+    },
+    {
+      "no": 126,
+      "en": "at least",
+      "ja": "少なくとも"
+    },
+    {
+      "no": 127,
+      "en": "at (the) most",
+      "ja": "せいぜい、多くても"
+    },
+    {
+      "no": 128,
+      "en": "at a time",
+      "ja": "1度に"
+    },
+    {
+      "no": 129,
+      "en": "at once",
+      "ja": "すぐに"
+    },
+    {
+      "no": 130,
+      "en": "at all",
+      "ja": "まったく"
+    },
+    {
+      "no": 131,
+      "en": "at any rate",
+      "ja": "とにかく、いずれにしても"
+    },
+    {
+      "no": 132,
+      "en": "at random",
+      "ja": "無作為に、手当たりしだいに"
+    },
+    {
+      "no": 133,
+      "en": "more or less",
+      "ja": "多かれ少なかれ"
+    },
+    {
+      "no": 134,
+      "en": "at times",
+      "ja": "ときどき"
+    },
+    {
+      "no": 135,
+      "en": "between you and me",
+      "ja": "ここだけの話だが"
+    },
+    {
+      "no": 136,
+      "en": "by hand",
+      "ja": "手で"
+    },
+    {
+      "no": 137,
+      "en": "by mistake",
+      "ja": "間違って"
+    },
+    {
+      "no": 138,
+      "en": "by no means",
+      "ja": "全然〜ない"
+    },
+    {
+      "no": 139,
+      "en": "by the way",
+      "ja": "ところで"
+    },
+    {
+      "no": 140,
+      "en": "far from ~",
+      "ja": "〜から程遠い、〜どころではない"
+    },
+    {
+      "no": 141,
+      "en": "for a while",
+      "ja": "しばらくの間"
+    },
+    {
+      "no": 142,
+      "en": "for example",
+      "ja": "例えば"
+    },
+    {
+      "no": 143,
+      "en": "for one thing",
+      "ja": "1つには"
+    },
+    {
+      "no": 144,
+      "en": "in a hurry",
+      "ja": "急いで、あせって"
+    },
+    {
+      "no": 145,
+      "en": "in addition (to ~)",
+      "ja": "加えて、さらに"
+    },
+    {
+      "no": 146,
+      "en": "in any case",
+      "ja": "とにかく、いずれにしても"
+    },
+    {
+      "no": 147,
+      "en": "in detail",
+      "ja": "詳細に"
+    },
+    {
+      "no": 148,
+      "en": "in fact",
+      "ja": "実際に"
+    },
+    {
+      "no": 149,
+      "en": "in general",
+      "ja": "一般に"
+    },
+    {
+      "no": 150,
+      "en": "in other words",
+      "ja": "言い換えれば、つまり"
+    },
+    {
+      "no": 151,
+      "en": "in public",
+      "ja": "人前で、公然と"
+    },
+    {
+      "no": 152,
+      "en": "in reality",
+      "ja": "実際には、現実に"
+    },
+    {
+      "no": 153,
+      "en": "in the end",
+      "ja": "結局は、ついには"
+    },
+    {
+      "no": 154,
+      "en": "in the future",
+      "ja": "将来は、今後は"
+    },
+    {
+      "no": 155,
+      "en": "in the long run",
+      "ja": "長い目で見れば、結局は"
+    },
+    {
+      "no": 156,
+      "en": "no doubt",
+      "ja": "おそらく、たぶん"
+    },
+    {
+      "no": 157,
+      "en": "no longer ~",
+      "ja": "もはや〜ない"
+    },
+    {
+      "no": 158,
+      "en": "not always ~",
+      "ja": "必ずしも〜ではない"
+    },
+    {
+      "no": 159,
+      "en": "on earth",
+      "ja": "一体全体"
+    },
+    {
+      "no": 160,
+      "en": "on the other hand",
+      "ja": "他方では、これに反して"
+    },
+    {
+      "no": 161,
+      "en": "so far",
+      "ja": "今までのところ"
+    },
+    {
+      "no": 162,
+      "en": "sooner or later",
+      "ja": "遅かれ早かれ、そのうち"
+    },
+    {
+      "no": 163,
+      "en": "these days",
+      "ja": "近ごろは、この頃は"
+    },
+    {
+      "no": 164,
+      "en": "according to ~",
+      "ja": "〜によれば"
+    },
+    {
+      "no": 165,
+      "en": "owing to ~",
+      "ja": "〜のために"
+    },
+    {
+      "no": 166,
+      "en": "thanks to ~",
+      "ja": "〜のおかげで"
+    },
+    {
+      "no": 167,
+      "en": "in spite of ~",
+      "ja": "〜にもかかわらず"
+    },
+    {
+      "no": 168,
+      "en": "all over",
+      "ja": "至る所に"
+    },
+    {
+      "no": 169,
+      "en": "apart from ~",
+      "ja": "〜のほかに"
+    },
+    {
+      "no": 170,
+      "en": "aside of ~",
+      "ja": "〜を除いては、〜のほかに"
+    },
+    {
+      "no": 171,
+      "en": "ahead of ~",
+      "ja": "〜より先に"
+    },
+    {
+      "no": 172,
+      "en": "in search of ~",
+      "ja": "〜を求めて"
+    },
+    {
+      "no": 173,
+      "en": "in preparation for ~",
+      "ja": "〜の準備中で"
+    },
+    {
+      "no": 174,
+      "en": "each other",
+      "ja": "お互い"
+    },
+    {
+      "no": 175,
+      "en": "so ~ that…",
+      "ja": "非常に〜なので…"
+    },
+    {
+      "no": 176,
+      "en": "A as well as B",
+      "ja": "BだけではなくAも"
+    },
+    {
+      "no": 177,
+      "en": "not only A but B",
+      "ja": "AだけではなくBも"
+    },
+    {
+      "no": 178,
+      "en": "as if …",
+      "ja": "まるで…のように"
+    },
+    {
+      "no": 179,
+      "en": "as soon as …",
+      "ja": "…するやいなや"
+    },
+    {
+      "no": 180,
+      "en": "Something is wrong with ~.",
+      "ja": "〜はどこが調子がおかしい"
+    },
+    {
+      "no": 181,
+      "en": "bring up ~",
+      "ja": "〜を育てる"
+    },
+    {
+      "no": 182,
+      "en": "call off ~",
+      "ja": "〜中止する"
+    },
+    {
+      "no": 183,
+      "en": "carry on",
+      "ja": "続ける"
+    },
+    {
+      "no": 184,
+      "en": "come  about",
+      "ja": "起こる"
+    },
+    {
+      "no": 185,
+      "en": "come by ~",
+      "ja": "〜を手に入れる"
+    },
+    {
+      "no": 186,
+      "en": "come up with ~",
+      "ja": "を思い付く"
+    },
+    {
+      "no": 187,
+      "en": "do away with ~",
+      "ja": "を取り除く、〜を廃止する"
+    },
+    {
+      "no": 188,
+      "en": "find fault with ~",
+      "ja": "〜にけちをつける、〜を非難する"
+    },
+    {
+      "no": 189,
+      "en": "get over ~",
+      "ja": "〜を克服する"
+    },
+    {
+      "no": 190,
+      "en": "hand in ~",
+      "ja": "〜を提出する"
+    },
+    {
+      "no": 191,
+      "en": "learn ~ by heart",
+      "ja": "〜を暗記する"
+    },
+    {
+      "no": 192,
+      "en": "look into ~",
+      "ja": "〜を調べる"
+    },
+    {
+      "no": 193,
+      "en": "look over ~",
+      "ja": "〜を調べる"
+    },
+    {
+      "no": 194,
+      "en": "pass away",
+      "ja": "死ぬ"
+    },
+    {
+      "no": 195,
+      "en": "put off ~",
+      "ja": "〜を延期する"
+    },
+    {
+      "no": 196,
+      "en": "put together ~",
+      "ja": "を組み立てる、をまとめる"
+    },
+    {
+      "no": 197,
+      "en": "put up ~",
+      "ja": "〜を掲げる、〜を上げる、〜を建てる"
+    },
+    {
+      "no": 198,
+      "en": "put up with ~",
+      "ja": "〜を我慢する"
+    },
+    {
+      "no": 199,
+      "en": "set about ~",
+      "ja": "〜を始める"
+    },
+    {
+      "no": 200,
+      "en": "set in",
+      "ja": "始まる"
+    },
+    {
+      "no": 201,
+      "en": "take after ~",
+      "ja": "〜に似ている"
+    },
+    {
+      "no": 202,
+      "en": "of importance",
+      "ja": "重要な"
+    },
+    {
+      "no": 203,
+      "en": "along with ~",
+      "ja": "〜と一緒に、〜に加えて"
+    },
+    {
+      "no": 204,
+      "en": "in connection with ~",
+      "ja": "〜に関連して"
+    },
+    {
+      "no": 205,
+      "en": "on board",
+      "ja": "〜に乗って"
+    },
+    {
+      "no": 206,
+      "en": "prior to ~",
+      "ja": "〜より前で"
+    },
+    {
+      "no": 207,
+      "en": "once in a while",
+      "ja": "ときどき"
+    },
+    {
+      "no": 208,
+      "en": "above all",
+      "ja": "とりわけ、特に"
+    },
+    {
+      "no": 209,
+      "en": "all of a sudden",
+      "ja": "突然に、不意に"
+    },
+    {
+      "no": 210,
+      "en": "all the same",
+      "ja": "それでもやはり"
+    },
+    {
+      "no": 211,
+      "en": "as a rule",
+      "ja": "普通は、概して"
+    },
+    {
+      "no": 212,
+      "en": "as well",
+      "ja": "〜もまた"
+    },
+    {
+      "no": 213,
+      "en": "before long",
+      "ja": "間もなく"
+    },
+    {
+      "no": 214,
+      "en": "by degrees",
+      "ja": "徐々に"
+    },
+    {
+      "no": 215,
+      "en": "for good",
+      "ja": "永久に"
+    },
+    {
+      "no": 216,
+      "en": "for the most part",
+      "ja": "大体は、大部分は"
+    },
+    {
+      "no": 217,
+      "en": "from time to time",
+      "ja": "ときどき"
+    },
+    {
+      "no": 218,
+      "en": "in advance",
+      "ja": "前もって"
+    },
+    {
+      "no": 219,
+      "en": "in all",
+      "ja": "全部で"
+    },
+    {
+      "no": 220,
+      "en": "in particular",
+      "ja": "特に"
+    },
+    {
+      "no": 221,
+      "en": "on occasion",
+      "ja": "ときどに"
+    },
+    {
+      "no": 222,
+      "en": "on purpose",
+      "ja": "わざと、故意に"
+    },
+    {
+      "no": 223,
+      "en": "over and over",
+      "ja": "何度も繰り返し"
+    },
+    {
+      "no": 224,
+      "en": "right away",
+      "ja": "今すぐ、直ちに"
+    },
+    {
+      "no": 225,
+      "en": "agree to ~",
+      "ja": "に同意する"
+    },
+    {
+      "no": 226,
+      "en": "agree with ~",
+      "ja": "に同意する、〜に合う、〜に一致する"
+    },
+    {
+      "no": 227,
+      "en": "apply for ~",
+      "ja": "〜を申し込む"
+    },
+    {
+      "no": 228,
+      "en": "apply to ~",
+      "ja": "〜に当てはまる"
+    },
+    {
+      "no": 229,
+      "en": "remember doing",
+      "ja": "…したの覚えている"
+    },
+    {
+      "no": 230,
+      "en": "remember to do",
+      "ja": "忘れずに…する"
+    },
+    {
+      "no": 231,
+      "en": "catch up with ~",
+      "ja": "〜に追いつく"
+    },
+    {
+      "no": 232,
+      "en": "keep pace with ~",
+      "ja": "〜に遅れずについていく"
+    },
+    {
+      "no": 233,
+      "en": "keep up  with ~",
+      "ja": "〜に遅れずについていく"
+    },
+    {
+      "no": 234,
+      "en": "leave ~ alone",
+      "ja": "〜をそのままにしておく、〜に干渉しない"
+    },
+    {
+      "no": 235,
+      "en": "let alone ~",
+      "ja": "〜は言うまでもなく"
+    },
+    {
+      "no": 236,
+      "en": "correspond to ~",
+      "ja": "〜に一致する、〜に相当する"
+    },
+    {
+      "no": 237,
+      "en": "correspond with ~",
+      "ja": "〜とやりとりを交わす、〜と文通する"
+    },
+    {
+      "no": 238,
+      "en": "hit on ~",
+      "ja": "〜を思いつく、〜に出くわす"
+    },
+    {
+      "no": 239,
+      "en": "occur to ~",
+      "ja": "ふと心に浮かぶ"
+    },
+    {
+      "no": 240,
+      "en": "dawn on ~",
+      "ja": "にわかり始める"
+    },
+    {
+      "no": 241,
+      "en": "make the best of ~",
+      "ja": "〜を最大限に利用する"
+    },
+    {
+      "no": 242,
+      "en": "make the most of ~",
+      "ja": "〜を最大限に利用する"
+    },
+    {
+      "no": 243,
+      "en": "lay off ~",
+      "ja": "〜を一時解雇する"
+    },
+    {
+      "no": 244,
+      "en": "lay out ~",
+      "ja": "〜を並べる、〜を設計する"
+    },
+    {
+      "no": 245,
+      "en": "be concerned about ~",
+      "ja": "〜を心配している"
+    },
+    {
+      "no": 246,
+      "en": "be concerned with ~",
+      "ja": "〜に関係している"
+    },
+    {
+      "no": 247,
+      "en": "be free from ~",
+      "ja": "〜がない"
+    },
+    {
+      "no": 248,
+      "en": "be free to do",
+      "ja": "自由に…できる"
+    },
+    {
+      "no": 249,
+      "en": "be familiar to ~",
+      "ja": "によく知られている"
+    },
+    {
+      "no": 250,
+      "en": "be familiar with ~",
+      "ja": "をよく知っている"
+    },
+    {
+      "no": 251,
+      "en": "be true of ~",
+      "ja": "〜に当てはまる"
+    },
+    {
+      "no": 252,
+      "en": "be true to ~",
+      "ja": "〜に忠実である"
+    },
+    {
+      "no": 253,
+      "en": "be tired from ~",
+      "ja": "〜で疲れる"
+    },
+    {
+      "no": 254,
+      "en": "be tired of ~",
+      "ja": "〜に飽きる"
+    },
+    {
+      "no": 255,
+      "en": "be bound for ~",
+      "ja": "〜行である"
+    },
+    {
+      "no": 256,
+      "en": "be bound to do",
+      "ja": "きっと…する、-する責任がある"
+    },
+    {
+      "no": 257,
+      "en": "be anxious about ~",
+      "ja": "〜を心配している"
+    },
+    {
+      "no": 258,
+      "en": "be anxious to do",
+      "ja": "…したがる"
+    },
+    {
+      "no": 259,
+      "en": "~ to come",
+      "ja": "将来の〜、来るべき〜"
+    },
+    {
+      "no": 260,
+      "en": "~ to go",
+      "ja": "あと〜、残りの〜、持ち帰り用の〜"
+    },
+    {
+      "no": 261,
+      "en": "anything but ~",
+      "ja": "全然〜ではない、〜どころではない"
+    },
+    {
+      "no": 262,
+      "en": "nothing but ~",
+      "ja": "ただ〜だけ、〜にすぎない"
+    },
+    {
+      "no": 263,
+      "en": "at first",
+      "ja": "最初は"
+    },
+    {
+      "no": 264,
+      "en": "for the first time",
+      "ja": "初めて"
+    },
+    {
+      "no": 265,
+      "en": "in the way (of ~)",
+      "ja": "邪魔になって"
+    },
+    {
+      "no": 266,
+      "en": "on the way (to ~)",
+      "ja": "途中で"
+    },
+    {
+      "no": 267,
+      "en": "by now",
+      "ja": "今はもう、今ごろは"
+    },
+    {
+      "no": 268,
+      "en": "for now",
+      "ja": "今のところは、当分は"
+    },
+    {
+      "no": 269,
+      "en": "on the contrary",
+      "ja": "それどころか、それに反して"
+    },
+    {
+      "no": 270,
+      "en": "to the contrary",
+      "ja": "それと反対の"
+    },
+    {
+      "no": 271,
+      "en": "in the air",
+      "ja": "未決定で、空中で、感じられて"
+    },
+    {
+      "no": 272,
+      "en": "on the air",
+      "ja": "放送中の"
+    },
+    {
+      "no": 273,
+      "en": "by chance",
+      "ja": "偶然に"
+    },
+    {
+      "no": 274,
+      "en": "by any chance",
+      "ja": "もしかして"
+    },
+    {
+      "no": 275,
+      "en": "as a matter of fact",
+      "ja": "当然のこととして"
+    },
+    {
+      "no": 276,
+      "en": "as a matter of course",
+      "ja": "実を言うと、実際は"
+    },
+    {
+      "no": 277,
+      "en": "at the distance",
+      "ja": "ある距離を置いて"
+    },
+    {
+      "no": 278,
+      "en": "in the distance",
+      "ja": "遠方に"
+    },
+    {
+      "no": 279,
+      "en": "inside out",
+      "ja": "裏返して、ひっくり返して"
+    },
+    {
+      "no": 280,
+      "en": "upside down",
+      "ja": "逆さまに、ひっくり返って"
+    },
+    {
+      "no": 281,
+      "en": "provide A with B",
+      "ja": "AにBを供給する"
+    },
+    {
+      "no": 282,
+      "en": "supply A with B",
+      "ja": "AにBをを供給する"
+    },
+    {
+      "no": 283,
+      "en": "mistake A for B",
+      "ja": "AをBと間違える"
+    },
+    {
+      "no": 284,
+      "en": "take A for B",
+      "ja": "AをBだと思う"
+    },
+    {
+      "no": 285,
+      "en": "look on A as B",
+      "ja": "AをBと見なす"
+    },
+    {
+      "no": 286,
+      "en": "think of A as B",
+      "ja": "AをBと見なす"
+    },
+    {
+      "no": 287,
+      "en": "distinguish A from B",
+      "ja": "AをBと区別する"
+    },
+    {
+      "no": 288,
+      "en": "tell A from B",
+      "ja": "AをBと区別する"
+    },
+    {
+      "no": 289,
+      "en": "participate in ~",
+      "ja": "〜に参加する"
+    },
+    {
+      "no": 290,
+      "en": "take part in ~",
+      "ja": "〜に参加する"
+    },
+    {
+      "no": 291,
+      "en": "compensate for ~",
+      "ja": "〜の埋め合わせをする、〜を補償する"
+    },
+    {
+      "no": 292,
+      "en": "make up",
+      "ja": "〜を構成する"
+    },
+    {
+      "no": 293,
+      "en": "care for ~",
+      "ja": "〜の世話をする"
+    },
+    {
+      "no": 294,
+      "en": "look after ~",
+      "ja": "〜の世話をする"
+    },
+    {
+      "no": 295,
+      "en": "show up",
+      "ja": "現れる"
+    },
+    {
+      "no": 296,
+      "en": "turn up",
+      "ja": "現れる"
+    },
+    {
+      "no": 297,
+      "en": "consist in ~",
+      "ja": "〜にある"
+    },
+    {
+      "no": 298,
+      "en": "lie in ~",
+      "ja": "〜にある"
+    },
+    {
+      "no": 299,
+      "en": "give in",
+      "ja": "屈服する"
+    },
+    {
+      "no": 300,
+      "en": "give way (to ~)",
+      "ja": "〜屈する"
+    },
+    {
+      "no": 301,
+      "en": "stand out",
+      "ja": "際立つ"
+    },
+    {
+      "no": 302,
+      "en": "stick out",
+      "ja": "突き出る"
+    },
+    {
+      "no": 303,
+      "en": "cling to ~",
+      "ja": "〜にくっつく"
+    },
+    {
+      "no": 304,
+      "en": "stick to ~",
+      "ja": "を堅持する"
+    },
+    {
+      "no": 305,
+      "en": "count on ~",
+      "ja": "〜に頼る、をあてにする"
+    },
+    {
+      "no": 306,
+      "en": "rest on ~",
+      "ja": "〜に基づく"
+    },
+    {
+      "no": 307,
+      "en": "look out (for ~)",
+      "ja": "〜に気をつける"
+    },
+    {
+      "no": 308,
+      "en": "watch out (for ~)",
+      "ja": "〜に気をつける"
+    },
+    {
+      "no": 309,
+      "en": "hand over ~",
+      "ja": "〜を引き渡す"
+    },
+    {
+      "no": 310,
+      "en": "turn over ~",
+      "ja": "〜を引き渡す"
+    },
+    {
+      "no": 311,
+      "en": "date back to ~",
+      "ja": "〜にさかのぼる、〜に始まる"
+    },
+    {
+      "no": 312,
+      "en": "date from ~",
+      "ja": "〜から始まる、〜にさかのぼる"
+    },
+    {
+      "no": 313,
+      "en": "put aside ~",
+      "ja": "〜をわきに置く"
+    },
+    {
+      "no": 314,
+      "en": "set aside ~",
+      "ja": "〜を蓄える"
+    },
+    {
+      "no": 315,
+      "en": "sit up",
+      "ja": "起きている"
+    },
+    {
+      "no": 316,
+      "en": "stay up",
+      "ja": "起きている"
+    },
+    {
+      "no": 317,
+      "en": "hold back ~",
+      "ja": "〜を制止する"
+    },
+    {
+      "no": 318,
+      "en": "keep back ~",
+      "ja": "を隠す"
+    },
+    {
+      "no": 319,
+      "en": "feel sorry for ~",
+      "ja": "〜を気の毒に思う、〜に同情する"
+    },
+    {
+      "no": 320,
+      "en": "take pity on ~",
+      "ja": "〜に同情する"
+    },
+    {
+      "no": 321,
+      "en": "sympathize with ~",
+      "ja": "〜に同情する"
+    },
+    {
+      "no": 322,
+      "en": "take pride in ~",
+      "ja": "〜を誇りに思う"
+    },
+    {
+      "no": 323,
+      "en": "pride oneself on ~",
+      "ja": "〜を誇りに思う"
+    },
+    {
+      "no": 324,
+      "en": "surrender to ~",
+      "ja": "〜に屈する"
+    },
+    {
+      "no": 325,
+      "en": "yield to ~",
+      "ja": "〜に屈する"
+    },
+    {
+      "no": 326,
+      "en": "be essential to ~",
+      "ja": "〜にとって不可欠である"
+    },
+    {
+      "no": 327,
+      "en": "be indispensable to ~",
+      "ja": "〜にとって不可欠である"
+    },
+    {
+      "no": 328,
+      "en": "be equal to ~",
+      "ja": "〜に等しい"
+    },
+    {
+      "no": 329,
+      "en": "be equivalent to ~",
+      "ja": "〜に等しい"
+    },
+    {
+      "no": 330,
+      "en": "be apt to do",
+      "ja": "・・・しがちである"
+    },
+    {
+      "no": 331,
+      "en": "be inclined to do",
+      "ja": "・・・する傾向がある"
+    },
+    {
+      "no": 332,
+      "en": "in a sense",
+      "ja": "ある意味では、ある点で"
+    },
+    {
+      "no": 333,
+      "en": "in a way",
+      "ja": "ある意味では、ある点で"
+    },
+    {
+      "no": 334,
+      "en": "first of all",
+      "ja": "まず第一に"
+    },
+    {
+      "no": 335,
+      "en": "in the first place",
+      "ja": "まず第一に"
+    },
+    {
+      "no": 336,
+      "en": "back and forth",
+      "ja": "行ったり来たり"
+    },
+    {
+      "no": 337,
+      "en": "up and down",
+      "ja": "行ったり来たり"
+    },
+    {
+      "no": 338,
+      "en": "at present",
+      "ja": "現在は、目下"
+    },
+    {
+      "no": 339,
+      "en": "at the moment",
+      "ja": "現在は"
+    },
+    {
+      "no": 340,
+      "en": "in a word",
+      "ja": "要するに、つまり"
+    },
+    {
+      "no": 341,
+      "en": "in short",
+      "ja": "つまり、手短に言えば"
+    },
+    {
+      "no": 342,
+      "en": "generally speaking",
+      "ja": "一般的に言えば"
+    },
+    {
+      "no": 343,
+      "en": "on the whole",
+      "ja": "全体的には、概して"
+    },
+    {
+      "no": 344,
+      "en": "all in all",
+      "ja": "全体的には、概して"
+    },
+    {
+      "no": 345,
+      "en": "in principle",
+      "ja": "理論的に"
+    },
+    {
+      "no": 346,
+      "en": "in theory",
+      "ja": "理論上は"
+    },
+    {
+      "no": 347,
+      "en": "at all cost(s)",
+      "ja": "ぜひとも"
+    },
+    {
+      "no": 348,
+      "en": "by all means",
+      "ja": "ぜひとも、必ず"
+    },
+    {
+      "no": 349,
+      "en": "as it were",
+      "ja": "いわば"
+    },
+    {
+      "no": 350,
+      "en": "so to speak",
+      "ja": "いわば"
+    },
+    {
+      "no": 351,
+      "en": "for one's (own) part",
+      "ja": "〜としては、〜に関する限りは"
+    },
+    {
+      "no": 352,
+      "en": "on one's part",
+      "ja": "〜の側での、〜としては"
+    },
+    {
+      "no": 353,
+      "en": "for the present",
+      "ja": "当分の間、差し当たり"
+    },
+    {
+      "no": 354,
+      "en": "for the time being",
+      "ja": "当分の間、差し当たり"
+    },
+    {
+      "no": 355,
+      "en": "close at hand",
+      "ja": "すぐ近くに"
+    },
+    {
+      "no": 356,
+      "en": "just around the corner",
+      "ja": "すぐ近くに"
+    },
+    {
+      "no": 357,
+      "en": "for all ~",
+      "ja": "〜にもかかわらず"
+    },
+    {
+      "no": 358,
+      "en": "with all ~",
+      "ja": "〜にもかかわらず"
+    },
+    {
+      "no": 359,
+      "en": "as for ~",
+      "ja": "〜について言えば、〜に関する限り"
+    },
+    {
+      "no": 360,
+      "en": "as to ~",
+      "ja": "〜に関して"
+    },
+    {
+      "no": 361,
+      "en": "not to mention ~",
+      "ja": "〜は言うまでもなく"
+    },
+    {
+      "no": 362,
+      "en": "to say nothing of ~",
+      "ja": "〜は言うまでもなく"
+    },
+    {
+      "no": 363,
+      "en": "be dependent on ~",
+      "ja": "〜に依存している"
+    },
+    {
+      "no": 364,
+      "en": "be independent of ~",
+      "ja": "〜から独立している"
+    },
+    {
+      "no": 365,
+      "en": "in order",
+      "ja": "整頓されて"
+    },
+    {
+      "no": 366,
+      "en": "out of order",
+      "ja": "故障して"
+    },
+    {
+      "no": 367,
+      "en": "look down on ~",
+      "ja": "〜を見下す"
+    },
+    {
+      "no": 368,
+      "en": "look up to ~",
+      "ja": "〜を尊敬する"
+    },
+    {
+      "no": 369,
+      "en": "do with ~",
+      "ja": "〜があればありがたい"
+    },
+    {
+      "no": 370,
+      "en": "do without (~)",
+      "ja": "なしで済ます"
+    },
+    {
+      "no": 371,
+      "en": "in sight",
+      "ja": "見えて、視界に入って"
+    },
+    {
+      "no": 372,
+      "en": "out of sight",
+      "ja": "見えなくて、視界から消えて"
+    },
+    {
+      "no": 373,
+      "en": "at (one's) ease",
+      "ja": "くつろいで"
+    },
+    {
+      "no": 374,
+      "en": "ill at ease",
+      "ja": "不安で、落ち着かないで"
+    },
+    {
+      "no": 375,
+      "en": "act on ~",
+      "ja": "〜に取り組む"
+    },
+    {
+      "no": 376,
+      "en": "break in ~",
+      "ja": "押し入る"
+    },
+    {
+      "no": 377,
+      "en": "break out",
+      "ja": "起こる"
+    },
+    {
+      "no": 378,
+      "en": "break up (~)",
+      "ja": "ばらばらになる"
+    },
+    {
+      "no": 379,
+      "en": "call for ~",
+      "ja": "〜を必要とする、〜を求める"
+    },
+    {
+      "no": 380,
+      "en": "call on ~",
+      "ja": "を訪問する"
+    },
+    {
+      "no": 381,
+      "en": "come across (~)",
+      "ja": "〜を偶然見つける、〜に偶然出会う"
+    },
+    {
+      "no": 382,
+      "en": "come to (~)",
+      "ja": "〜に達する"
+    },
+    {
+      "no": 383,
+      "en": "give out (~)",
+      "ja": "〜を配る"
+    },
+    {
+      "no": 384,
+      "en": "go by (~)",
+      "ja": "たつ"
+    },
+    {
+      "no": 385,
+      "en": "go off",
+      "ja": "出かける、去る"
+    },
+    {
+      "no": 386,
+      "en": "go on (~)",
+      "ja": "続く"
+    },
+    {
+      "no": 387,
+      "en": "go out",
+      "ja": "出かける"
+    },
+    {
+      "no": 388,
+      "en": "go over ~",
+      "ja": "〜に詳細に目を通す、〜を調べる"
+    },
+    {
+      "no": 389,
+      "en": "go with ~",
+      "ja": "〜と付き合う"
+    },
+    {
+      "no": 390,
+      "en": "hold out ~",
+      "ja": "を差し出す"
+    },
+    {
+      "no": 391,
+      "en": "hold up ~",
+      "ja": "〜を持ち上げる"
+    },
+    {
+      "no": 392,
+      "en": "live on ~",
+      "ja": "〜を常食にする"
+    },
+    {
+      "no": 393,
+      "en": "look to ~",
+      "ja": "〜のほうを見る"
+    },
+    {
+      "no": 394,
+      "en": "look up ~",
+      "ja": "〜を調べる"
+    },
+    {
+      "no": 395,
+      "en": "put out ~",
+      "ja": "を消す"
+    },
+    {
+      "no": 396,
+      "en": "settle down",
+      "ja": "定住する"
+    },
+    {
+      "no": 397,
+      "en": "stand by (~)",
+      "ja": "傍観する"
+    },
+    {
+      "no": 398,
+      "en": "stand for ~",
+      "ja": "〜を意味する、〜の略である"
+    },
+    {
+      "no": 399,
+      "en": "take in ~",
+      "ja": "〜を取り入れる"
+    },
+    {
+      "no": 400,
+      "en": "take on ~",
+      "ja": "〜を引き受ける"
+    },
+    {
+      "no": 401,
+      "en": "take to ~",
+      "ja": "〜を始める"
+    },
+    {
+      "no": 402,
+      "en": "take up ~",
+      "ja": "を取る"
+    },
+    {
+      "no": 403,
+      "en": "turndown ~",
+      "ja": "〜を却下する"
+    },
+    {
+      "no": 404,
+      "en": "turn in ~",
+      "ja": "〜を提出する"
+    },
+    {
+      "no": 405,
+      "en": "make for ~",
+      "ja": "〜のほうへ進む"
+    },
+    {
+      "no": 406,
+      "en": "make out ~",
+      "ja": "〜を理解する"
+    },
+    {
+      "no": 407,
+      "en": "meet with ~",
+      "ja": "〜を受ける、〜を経験する"
+    },
+    {
+      "no": 408,
+      "en": "provide for ~",
+      "ja": "〜を扶養する"
+    },
+    {
+      "no": 409,
+      "en": "put down ~",
+      "ja": "〜を置く"
+    },
+    {
+      "no": 410,
+      "en": "run over (~)",
+      "ja": "〜をひく"
+    },
+    {
+      "no": 411,
+      "en": "set out (~)",
+      "ja": "出発する"
+    },
+    {
+      "no": 412,
+      "en": "be due to ~",
+      "ja": "〜のためである"
+    },
+    {
+      "no": 413,
+      "en": "up to ~",
+      "ja": "〜まで"
+    },
+    {
+      "no": 414,
+      "en": "at large",
+      "ja": "一般の"
+    },
+    {
+      "no": 415,
+      "en": "in effect",
+      "ja": "事実上、実際は"
+    },
+    {
+      "no": 416,
+      "en": "all but ~",
+      "ja": "〜も同然、ほとんど〜"
+    },
+    {
+      "no": 417,
+      "en": "at length",
+      "ja": "詳細に"
+    },
+    {
+      "no": 418,
+      "en": "next to ~",
+      "ja": "の次の"
+    },
+    {
+      "no": 419,
+      "en": "on end",
+      "ja": "連続して"
+    },
+    {
+      "no": 420,
+      "en": "by way of ~",
+      "ja": "〜経由で"
+    },
+    {
+      "no": 421,
+      "en": "add to ~",
+      "ja": "〜を増やす"
+    },
+    {
+      "no": 422,
+      "en": "adapt to ~",
+      "ja": "に順応する"
+    },
+    {
+      "no": 423,
+      "en": "object to ~",
+      "ja": "〜に反対する"
+    },
+    {
+      "no": 424,
+      "en": "admit to ~",
+      "ja": "〜を認める"
+    },
+    {
+      "no": 425,
+      "en": "conform to ~",
+      "ja": "〜と一致する"
+    },
+    {
+      "no": 426,
+      "en": "resort to ~",
+      "ja": "に訴える"
+    },
+    {
+      "no": 427,
+      "en": "keep to ~",
+      "ja": "〜に沿って進む"
+    },
+    {
+      "no": 428,
+      "en": "get to ~",
+      "ja": "〜に到着する"
+    },
+    {
+      "no": 429,
+      "en": "adhere to ~",
+      "ja": "に忠実に従う"
+    },
+    {
+      "no": 430,
+      "en": "reflect on ~",
+      "ja": "〜を熟考する"
+    },
+    {
+      "no": 431,
+      "en": "decide on ~",
+      "ja": "〜を決める、〜に決める"
+    },
+    {
+      "no": 432,
+      "en": "fall on ~",
+      "ja": "〜に降りかかる"
+    },
+    {
+      "no": 433,
+      "en": "feed on ~",
+      "ja": "〜を常食にする"
+    },
+    {
+      "no": 434,
+      "en": "run into ~",
+      "ja": "〜に偶然出会う、〜を偶然見つける"
+    },
+    {
+      "no": 435,
+      "en": "break into ~",
+      "ja": "〜に侵入する"
+    },
+    {
+      "no": 436,
+      "en": "enter into ~",
+      "ja": "を取り結ぶ"
+    },
+    {
+      "no": 437,
+      "en": "burst into ~",
+      "ja": "急に〜をしだす"
+    },
+    {
+      "no": 438,
+      "en": "dispose of ~",
+      "ja": "〜を処分する"
+    },
+    {
+      "no": 439,
+      "en": "approve of ~",
+      "ja": "〜に賛成する"
+    },
+    {
+      "no": 440,
+      "en": "boast of ~",
+      "ja": "〜を自慢する、〜を誇らしげに話す"
+    },
+    {
+      "no": 441,
+      "en": "become of ~",
+      "ja": "〜はどうなるか"
+    },
+    {
+      "no": 442,
+      "en": "derive from ~",
+      "ja": "〜に由来する、〜から出ている"
+    },
+    {
+      "no": 443,
+      "en": "aim at ~",
+      "ja": "〜を目指す"
+    },
+    {
+      "no": 444,
+      "en": "interfere with ~",
+      "ja": "〜の邪魔をする、〜を妨げる"
+    },
+    {
+      "no": 445,
+      "en": "part with ~",
+      "ja": "を手放す"
+    },
+    {
+      "no": 446,
+      "en": "long for ~",
+      "ja": "〜を切望する"
+    },
+    {
+      "no": 447,
+      "en": "send for ~",
+      "ja": "を呼ぶ、を取り寄せる"
+    },
+    {
+      "no": 448,
+      "en": "go about ~",
+      "ja": "〜に取り掛かる"
+    },
+    {
+      "no": 449,
+      "en": "run across ~",
+      "ja": "〜を偶然見つける、〜に偶然出会う"
+    },
+    {
+      "no": 450,
+      "en": "end up",
+      "ja": "最後には〜になる"
+    },
+    {
+      "no": 451,
+      "en": "use up ~",
+      "ja": "〜を使い果たす"
+    },
+    {
+      "no": 452,
+      "en": "sum up (~)",
+      "ja": "要約する"
+    },
+    {
+      "no": 453,
+      "en": "clear up (~)",
+      "ja": "晴れる"
+    },
+    {
+      "no": 454,
+      "en": "tie up (~)",
+      "ja": "を拘束する"
+    },
+    {
+      "no": 455,
+      "en": "cheer up (~)",
+      "ja": "元気づく"
+    },
+    {
+      "no": 456,
+      "en": "blow up (~)",
+      "ja": "爆発する"
+    },
+    {
+      "no": 457,
+      "en": "call up (~)",
+      "ja": "電話をかける"
+    },
+    {
+      "no": 458,
+      "en": "shut up (~)",
+      "ja": "話をやめる"
+    },
+    {
+      "no": 459,
+      "en": "step up (~)",
+      "ja": "近づく"
+    },
+    {
+      "no": 460,
+      "en": "cut down (on) ~",
+      "ja": "〜を減らす、〜を切り詰める"
+    },
+    {
+      "no": 461,
+      "en": "slow down (~)",
+      "ja": "速度を落とす"
+    },
+    {
+      "no": 462,
+      "en": "break down (~)",
+      "ja": "〜を分解する"
+    },
+    {
+      "no": 463,
+      "en": "hand down ~",
+      "ja": "〜を伝える"
+    },
+    {
+      "no": 464,
+      "en": "take down ~",
+      "ja": "〜を書き留める"
+    },
+    {
+      "no": 465,
+      "en": "burn down (~)",
+      "ja": "〜を全焼させる"
+    },
+    {
+      "no": 466,
+      "en": "come out",
+      "ja": "現れる"
+    },
+    {
+      "no": 467,
+      "en": "run out",
+      "ja": "使い果たす"
+    },
+    {
+      "no": 468,
+      "en": "speak out",
+      "ja": "はっきり話す"
+    },
+    {
+      "no": 469,
+      "en": "drop out",
+      "ja": "脱落する、中途退学する"
+    },
+    {
+      "no": 470,
+      "en": "sort out ~",
+      "ja": "〜を整理する"
+    },
+    {
+      "no": 471,
+      "en": "wear out (~)",
+      "ja": "〜をすり減らす"
+    },
+    {
+      "no": 472,
+      "en": "roll out (~)",
+      "ja": "を製造する"
+    },
+    {
+      "no": 473,
+      "en": "iron out ~",
+      "ja": "を解決する"
+    },
+    {
+      "no": 474,
+      "en": "set off (~)",
+      "ja": "出発する"
+    },
+    {
+      "no": 475,
+      "en": "show off (~)",
+      "ja": "見せびらかす"
+    },
+    {
+      "no": 476,
+      "en": "keep off ~",
+      "ja": "〜を近づけない"
+    },
+    {
+      "no": 477,
+      "en": "give off ~",
+      "ja": "を発する"
+    },
+    {
+      "no": 478,
+      "en": "break off ~",
+      "ja": "急にやめる"
+    },
+    {
+      "no": 479,
+      "en": "take over (~)",
+      "ja": "引き継ぐ"
+    },
+    {
+      "no": 480,
+      "en": "put in ~",
+      "ja": "を差し入れる"
+    },
+    {
+      "no": 481,
+      "en": "drop in",
+      "ja": "ちょっと立ち寄る"
+    },
+    {
+      "no": 482,
+      "en": "cut in",
+      "ja": "割り込む"
+    },
+    {
+      "no": 483,
+      "en": "pass on ~",
+      "ja": "を次に回す"
+    },
+    {
+      "no": 484,
+      "en": "give away ~",
+      "ja": "を漏らす"
+    },
+    {
+      "no": 485,
+      "en": "adjust (A) to B",
+      "ja": "Bに合わせて調節する"
+    },
+    {
+      "no": 486,
+      "en": "compare A with B",
+      "ja": "AをBと比較する"
+    },
+    {
+      "no": 487,
+      "en": "expose A to B",
+      "ja": "AをBにさらす"
+    },
+    {
+      "no": 488,
+      "en": "leave A (up) to B",
+      "ja": "AをBに任せる"
+    },
+    {
+      "no": 489,
+      "en": "attach A to B",
+      "ja": "AをBに取り付ける"
+    },
+    {
+      "no": 490,
+      "en": "attribute A to B",
+      "ja": "AをBのせいと考える"
+    },
+    {
+      "no": 491,
+      "en": "owe A to B",
+      "ja": "AをBに負っている"
+    },
+    {
+      "no": 492,
+      "en": "confine A to B",
+      "ja": "AをBに限定する"
+    },
+    {
+      "no": 493,
+      "en": "liken A to B",
+      "ja": "AをBにたとえる"
+    },
+    {
+      "no": 494,
+      "en": "keep A from B",
+      "ja": "AにBをさせない、AをBから守る"
+    },
+    {
+      "no": 495,
+      "en": "discourage A from B",
+      "ja": "AにBを思いとどまらせる"
+    },
+    {
+      "no": 496,
+      "en": "forbid A from B",
+      "ja": "AにBを禁止する"
+    },
+    {
+      "no": 497,
+      "en": "prohibit A from B",
+      "ja": "AにBを禁止する"
+    },
+    {
+      "no": 498,
+      "en": "order A from B",
+      "ja": "BにAを注文する"
+    },
+    {
+      "no": 499,
+      "en": "substitute A for B",
+      "ja": "Bの代わりにAを使う"
+    },
+    {
+      "no": 500,
+      "en": "exchange A for B",
+      "ja": "AをBと交換する"
+    },
+    {
+      "no": 501,
+      "en": "blame A for B",
+      "ja": "BのことでAを非難する"
+    },
+    {
+      "no": 502,
+      "en": "publish A for B",
+      "ja": "BのことでAを罰する"
+    },
+    {
+      "no": 503,
+      "en": "forgive A for B",
+      "ja": "BのことでAを許す"
+    },
+    {
+      "no": 504,
+      "en": "deprive A of B",
+      "ja": "AからBを奪う"
+    },
+    {
+      "no": 505,
+      "en": "rob A of B",
+      "ja": "AからBを奪う"
+    },
+    {
+      "no": 506,
+      "en": "cure A of B",
+      "ja": "AのBを治す"
+    },
+    {
+      "no": 507,
+      "en": "accuse A of B",
+      "ja": "BのことでAを非難する"
+    },
+    {
+      "no": 508,
+      "en": "suspect A of B",
+      "ja": "BについてAを疑う"
+    },
+    {
+      "no": 509,
+      "en": "assure A of B",
+      "ja": "AにBを請け合う"
+    },
+    {
+      "no": 510,
+      "en": "transform A into B",
+      "ja": "AをBに変える"
+    },
+    {
+      "no": 511,
+      "en": "talk A into B",
+      "ja": "Aを説得してBをさせる"
+    },
+    {
+      "no": 512,
+      "en": "present A with B",
+      "ja": "AにBを贈る"
+    },
+    {
+      "no": 513,
+      "en": "diagnose A as B",
+      "ja": "AをBと診断する"
+    },
+    {
+      "no": 514,
+      "en": "strike A as B",
+      "ja": "AにBの印象を与える"
+    },
+    {
+      "no": 515,
+      "en": "congratulate A on B",
+      "ja": "BのことでAを祝う"
+    },
+    {
+      "no": 516,
+      "en": "name A after B",
+      "ja": "AをBにちなんで名づける"
+    },
+    {
+      "no": 517,
+      "en": "make an effort",
+      "ja": "努力する"
+    },
+    {
+      "no": 518,
+      "en": "make way",
+      "ja": "道をあける"
+    },
+    {
+      "no": 519,
+      "en": "live a ~ life",
+      "ja": "〜の生活をする"
+    },
+    {
+      "no": 520,
+      "en": "make a living",
+      "ja": "生計を立てる"
+    },
+    {
+      "no": 521,
+      "en": "take one's place",
+      "ja": "いつもの席に着く"
+    },
+    {
+      "no": 522,
+      "en": "take turns",
+      "ja": "交代でする"
+    },
+    {
+      "no": 523,
+      "en": "take a chance",
+      "ja": "思い切ってやってみる"
+    },
+    {
+      "no": 524,
+      "en": "take shape",
+      "ja": "形をとる"
+    },
+    {
+      "no": 525,
+      "en": "take a seat",
+      "ja": "着席する"
+    },
+    {
+      "no": 526,
+      "en": "take a risk",
+      "ja": "危険を冒す"
+    },
+    {
+      "no": 527,
+      "en": "shake hands",
+      "ja": "握手する"
+    },
+    {
+      "no": 528,
+      "en": "change hands",
+      "ja": "持ち主が変わる"
+    },
+    {
+      "no": 529,
+      "en": "have a say (in ~)",
+      "ja": "発信権を持つ"
+    },
+    {
+      "no": 530,
+      "en": "have one's (own) way",
+      "ja": "思い通りにする"
+    },
+    {
+      "no": 531,
+      "en": "keep one's temper",
+      "ja": "冷静さを保つ"
+    },
+    {
+      "no": 532,
+      "en": "take advantage of ~",
+      "ja": "〜を利用する"
+    },
+    {
+      "no": 533,
+      "en": "take control of ~",
+      "ja": "〜を制御する"
+    },
+    {
+      "no": 534,
+      "en": "make use of ~",
+      "ja": "〜を利用する"
+    },
+    {
+      "no": 535,
+      "en": "make fun  of ~",
+      "ja": "〜をからかう"
+    },
+    {
+      "no": 536,
+      "en": "make friends with ~",
+      "ja": "〜と親しくなる"
+    },
+    {
+      "no": 537,
+      "en": "make much of ~",
+      "ja": "〜を重要視する"
+    },
+    {
+      "no": 538,
+      "en": "have difficulty (in) doing",
+      "ja": "・・・するのが困難である、苦労しながら・・・する"
+    },
+    {
+      "no": 539,
+      "en": "have access to ~",
+      "ja": "〜を利用できる"
+    },
+    {
+      "no": 540,
+      "en": "have an influence on ~",
+      "ja": "〜に影響を与える"
+    },
+    {
+      "no": 541,
+      "en": "have a liking foe ~",
+      "ja": "〜を好む"
+    },
+    {
+      "no": 542,
+      "en": "give rise to ~",
+      "ja": "〜を引き起こす"
+    },
+    {
+      "no": 543,
+      "en": "give birth to ~",
+      "ja": "〜を産む"
+    },
+    {
+      "no": 544,
+      "en": "find one's way to ~",
+      "ja": "〜へたどり着く、〜まで道を探しながら進む"
+    },
+    {
+      "no": 545,
+      "en": "keep an eye on ~",
+      "ja": "〜に気をつけている、〜から目を離さない"
+    },
+    {
+      "no": 546,
+      "en": "fall victim to ~",
+      "ja": "〜の犠牲になる"
+    },
+    {
+      "no": 547,
+      "en": "catch sight of ~",
+      "ja": "〜を見つける"
+    },
+    {
+      "no": 548,
+      "en": "put emphasis on ~",
+      "ja": "〜を強調する"
+    },
+    {
+      "no": 549,
+      "en": "be related to ~",
+      "ja": "〜と関係がある"
+    },
+    {
+      "no": 550,
+      "en": "be similar to ~",
+      "ja": "〜に似ている"
+    },
+    {
+      "no": 551,
+      "en": "be subject to ~",
+      "ja": "〜を受けやすい"
+    },
+    {
+      "no": 552,
+      "en": "be superior to ~",
+      "ja": "〜より優れている"
+    },
+    {
+      "no": 553,
+      "en": "be sensitive to ~",
+      "ja": "〜に敏感である"
+    },
+    {
+      "no": 554,
+      "en": "be accustomed to ~",
+      "ja": "〜に慣れている"
+    },
+    {
+      "no": 555,
+      "en": "be contrary to ~",
+      "ja": "〜に反している"
+    },
+    {
+      "no": 556,
+      "en": "be indifferent to ~",
+      "ja": "〜に無関心である"
+    },
+    {
+      "no": 557,
+      "en": "be preferable to ~",
+      "ja": "〜より好ましい"
+    },
+    {
+      "no": 558,
+      "en": "be dedicated to ~",
+      "ja": "に打ち込んでいる"
+    },
+    {
+      "no": 559,
+      "en": "be peculiar to ~",
+      "ja": "〜に特有である"
+    },
+    {
+      "no": 560,
+      "en": "be prone to ~",
+      "ja": "〜になりやすい"
+    },
+    {
+      "no": 561,
+      "en": "be identical to ~",
+      "ja": "〜と同じである"
+    },
+    {
+      "no": 562,
+      "en": "be involved in ~",
+      "ja": "〜に携わっている"
+    },
+    {
+      "no": 563,
+      "en": "be absorbed in ~",
+      "ja": "〜に熱中している"
+    },
+    {
+      "no": 564,
+      "en": "be lacking in ~",
+      "ja": "〜に欠けている"
+    },
+    {
+      "no": 565,
+      "en": "be versed in ~",
+      "ja": "〜に精通している"
+    },
+    {
+      "no": 566,
+      "en": "be abundant in ~",
+      "ja": "〜が豊富である"
+    },
+    {
+      "no": 567,
+      "en": "be busy with ~",
+      "ja": "〜で忙しい"
+    },
+    {
+      "no": 568,
+      "en": "be popular with ~",
+      "ja": "〜に人気がある"
+    },
+    {
+      "no": 569,
+      "en": "be equipped with ~",
+      "ja": "〜を備えている"
+    },
+    {
+      "no": 570,
+      "en": "be content with ~",
+      "ja": "〜に満足している"
+    },
+    {
+      "no": 571,
+      "en": "be confronted with ~",
+      "ja": "〜に直面している"
+    },
+    {
+      "no": 572,
+      "en": "be acquainted with ~",
+      "ja": "〜に精通している"
+    },
+    {
+      "no": 573,
+      "en": "be characteristic of ~",
+      "ja": "〜に特有である"
+    },
+    {
+      "no": 574,
+      "en": "be worthy of ~",
+      "ja": "〜に値する"
+    },
+    {
+      "no": 575,
+      "en": "be ignorant of ~",
+      "ja": "〜を知らない"
+    },
+    {
+      "no": 576,
+      "en": "be confident of ~",
+      "ja": "〜を確信している"
+    },
+    {
+      "no": 577,
+      "en": "be considerate of ~",
+      "ja": "〜に対して思いやりのある"
+    },
+    {
+      "no": 578,
+      "en": "be guilty of ~",
+      "ja": "〜について有罪である、〜を犯している"
+    },
+    {
+      "no": 579,
+      "en": "be convinced of ~",
+      "ja": "〜を確信している"
+    },
+    {
+      "no": 580,
+      "en": "be tolerant of ~",
+      "ja": "〜に対して寛大である"
+    },
+    {
+      "no": 581,
+      "en": "be wary of ~",
+      "ja": "〜に用心深い"
+    },
+    {
+      "no": 582,
+      "en": "be suitable for ~",
+      "ja": "〜に適している"
+    },
+    {
+      "no": 583,
+      "en": "be grateful (to A) for B",
+      "ja": "Bのことで感謝している"
+    },
+    {
+      "no": 584,
+      "en": "be particular about ~",
+      "ja": "〜についてやかましい"
+    },
+    {
+      "no": 585,
+      "en": "come down with ~",
+      "ja": "にかかる"
+    },
+    {
+      "no": 586,
+      "en": "come into being",
+      "ja": "出現する、生まれ出る"
+    },
+    {
+      "no": 587,
+      "en": "come true",
+      "ja": "実現する"
+    },
+    {
+      "no": 588,
+      "en": "do ~ good",
+      "ja": "のためになる"
+    },
+    {
+      "no": 589,
+      "en": "get in touch (with ~)",
+      "ja": "連絡を取る"
+    },
+    {
+      "no": 590,
+      "en": "go blind",
+      "ja": "失明する"
+    },
+    {
+      "no": 591,
+      "en": "have A in common (with B)",
+      "ja": "共通にAを持っている"
+    },
+    {
+      "no": 592,
+      "en": "keep ~ in mind",
+      "ja": "〜を心にとどめておく"
+    },
+    {
+      "no": 593,
+      "en": "look back on ~",
+      "ja": "〜を回顧する"
+    },
+    {
+      "no": 594,
+      "en": "make it",
+      "ja": "成功する、うまくやる"
+    },
+    {
+      "no": 595,
+      "en": "put ~ into practice",
+      "ja": "〜を実行する"
+    },
+    {
+      "no": 596,
+      "en": "sign up for ~",
+      "ja": "の届け出をする"
+    },
+    {
+      "no": 597,
+      "en": "take ~ by surprise",
+      "ja": "〜を驚かす"
+    },
+    {
+      "no": 598,
+      "en": "in terms of ~",
+      "ja": "〜の観点から"
+    },
+    {
+      "no": 599,
+      "en": "in contrast to ~",
+      "ja": "〜と著しく違って"
+    },
+    {
+      "no": 600,
+      "en": "in danger of ~",
+      "ja": "〜の危険があって"
+    },
+    {
+      "no": 601,
+      "en": "in need of ~",
+      "ja": "〜を必要として"
+    },
+    {
+      "no": 602,
+      "en": "in response to ~",
+      "ja": "〜に応じて"
+    },
+    {
+      "no": 603,
+      "en": "in favor of ~",
+      "ja": "〜に賛成して"
+    },
+    {
+      "no": 604,
+      "en": "in (the) face of ~",
+      "ja": "〜に直面して"
+    },
+    {
+      "no": 605,
+      "en": "in charge of ~",
+      "ja": "〜を預かって"
+    },
+    {
+      "no": 606,
+      "en": "in relation to ~",
+      "ja": "〜と比べて"
+    },
+    {
+      "no": 607,
+      "en": "in place of ~",
+      "ja": "〜の代わりに"
+    },
+    {
+      "no": 608,
+      "en": "in the presence of ~",
+      "ja": "〜のいるところで"
+    },
+    {
+      "no": 609,
+      "en": "in honor of ~",
+      "ja": "〜に敬意を表して"
+    },
+    {
+      "no": 610,
+      "en": "in (the) light of ~",
+      "ja": "〜から見て"
+    },
+    {
+      "no": 611,
+      "en": "in harmony with ~",
+      "ja": "〜と調和して"
+    },
+    {
+      "no": 612,
+      "en": "in exchange for ~",
+      "ja": "〜と交換に"
+    },
+    {
+      "no": 613,
+      "en": "for the sake of ~",
+      "ja": "〜のために"
+    },
+    {
+      "no": 614,
+      "en": "for fear of ~",
+      "ja": "〜を恐れて"
+    },
+    {
+      "no": 615,
+      "en": "for lack of ~",
+      "ja": "〜がないために"
+    },
+    {
+      "no": 616,
+      "en": "at the expense of ~",
+      "ja": "〜を犠牲にして"
+    },
+    {
+      "no": 617,
+      "en": "at (the) sight of ~",
+      "ja": "〜を見て"
+    },
+    {
+      "no": 618,
+      "en": "at the mercy of ~",
+      "ja": "〜のなすがままになって"
+    },
+    {
+      "no": 619,
+      "en": "as opposed to ~",
+      "ja": "〜ではなく"
+    },
+    {
+      "no": 620,
+      "en": "by means of ~",
+      "ja": "〜を用いて、〜によって"
+    },
+    {
+      "no": 621,
+      "en": "by virtue of ~",
+      "ja": "〜のおかげで、〜によって"
+    },
+    {
+      "no": 622,
+      "en": "on behalf of ~",
+      "ja": "〜を代表して"
+    },
+    {
+      "no": 623,
+      "en": "on (a) charge of ~",
+      "ja": "〜の容疑で"
+    },
+    {
+      "no": 624,
+      "en": "with regart to ~",
+      "ja": "〜に関して"
+    },
+    {
+      "no": 625,
+      "en": "in part",
+      "ja": "一部には"
+    },
+    {
+      "no": 626,
+      "en": "in turn",
+      "ja": "順々に"
+    },
+    {
+      "no": 627,
+      "en": "in place",
+      "ja": "あるべき場所に、きちんと整って"
+    },
+    {
+      "no": 628,
+      "en": "in practice",
+      "ja": "実際には"
+    },
+    {
+      "no": 629,
+      "en": "in demand",
+      "ja": "需要があって、必要とされて"
+    },
+    {
+      "no": 630,
+      "en": "in the meantime",
+      "ja": "その間"
+    },
+    {
+      "no": 631,
+      "en": "in all likelihood",
+      "ja": "十中八九、おおかた"
+    },
+    {
+      "no": 632,
+      "en": "at work",
+      "ja": "職場で"
+    },
+    {
+      "no": 633,
+      "en": "at risk",
+      "ja": "危険な状態で"
+    },
+    {
+      "no": 634,
+      "en": "at a loss",
+      "ja": "途方に暮れて、困って"
+    },
+    {
+      "no": 635,
+      "en": "at first sight",
+      "ja": "一見したところでは"
+    },
+    {
+      "no": 636,
+      "en": "at heart",
+      "ja": "心の底では、本当は"
+    },
+    {
+      "no": 637,
+      "en": "at intervals",
+      "ja": "時折"
+    },
+    {
+      "no": 638,
+      "en": "on (the) average",
+      "ja": "平均して"
+    },
+    {
+      "no": 639,
+      "en": "on a ~ basis",
+      "ja": "〜の基準で"
+    },
+    {
+      "no": 640,
+      "en": "on a ~ scale",
+      "ja": "〜な規模で"
+    },
+    {
+      "no": 641,
+      "en": "on display",
+      "ja": "陳列中で、展示して"
+    },
+    {
+      "no": 642,
+      "en": "on the increase",
+      "ja": "増加中で"
+    },
+    {
+      "no": 643,
+      "en": "on (one's) guard",
+      "ja": "警戒して"
+    },
+    {
+      "no": 644,
+      "en": "to ~ extent",
+      "ja": "〜の程度に"
+    },
+    {
+      "no": 645,
+      "en": "to one's surprise",
+      "ja": "〜が驚いたことには"
+    },
+    {
+      "no": 646,
+      "en": "to the point",
+      "ja": "要を得た、適切な"
+    },
+    {
+      "no": 647,
+      "en": "to make matters worse",
+      "ja": "さらに悪いことに"
+    },
+    {
+      "no": 648,
+      "en": "to one's advantage",
+      "ja": "に都合がよい、に有利な"
+    },
+    {
+      "no": 649,
+      "en": "from ~ on",
+      "ja": "〜から以後は"
+    },
+    {
+      "no": 650,
+      "en": "from ~ point of view",
+      "ja": "〜の視点から"
+    },
+    {
+      "no": 651,
+      "en": "for sure",
+      "ja": "確かに"
+    },
+    {
+      "no": 652,
+      "en": "under way",
+      "ja": "進行中で"
+    },
+    {
+      "no": 653,
+      "en": "under construction",
+      "ja": "建築中で"
+    },
+    {
+      "no": 654,
+      "en": "of late",
+      "ja": "最近、近ごろ"
+    },
+    {
+      "no": 655,
+      "en": "of one's own accord",
+      "ja": "自分の意思で、自発的に"
+    },
+    {
+      "no": 656,
+      "en": "without fail",
+      "ja": "必ず、間違いなく"
+    },
+    {
+      "no": 657,
+      "en": "behind the times",
+      "ja": "時代遅れの"
+    },
+    {
+      "no": 658,
+      "en": "beyond description",
+      "ja": "言葉では表現できないほどの"
+    },
+    {
+      "no": 659,
+      "en": "out of breath",
+      "ja": "息切れして"
+    },
+    {
+      "no": 660,
+      "en": "out of character",
+      "ja": "性格に合わない"
+    },
+    {
+      "no": 661,
+      "en": "no matter how …",
+      "ja": "どんなに・・・でも"
+    },
+    {
+      "no": 662,
+      "en": "what we call ~",
+      "ja": "いわゆる〜"
+    },
+    {
+      "no": 663,
+      "en": "what ~ is",
+      "ja": "現在の〜"
+    },
+    {
+      "no": 664,
+      "en": "~ will do",
+      "ja": "〜は役に立つ"
+    },
+    {
+      "no": 665,
+      "en": "may well do",
+      "ja": "おそらく・・・するだろう"
+    },
+    {
+      "no": 666,
+      "en": "might (just) as well do",
+      "ja": "・・・するのも同じだ"
+    },
+    {
+      "no": 667,
+      "en": "cannot ~ too (…)",
+      "ja": "いくら〜してもしすぎることはない"
+    },
+    {
+      "no": 668,
+      "en": "the last ~ to do",
+      "ja": "最も・・・しそうでない〜"
+    },
+    {
+      "no": 669,
+      "en": "have A to do with B",
+      "ja": "BとAの関係がある"
+    },
+    {
+      "no": 670,
+      "en": "to tell (you) the truth",
+      "ja": "実を言えば"
+    },
+    {
+      "no": 671,
+      "en": "needless to say",
+      "ja": "言うまでもなく"
+    },
+    {
+      "no": 672,
+      "en": "feel like doing",
+      "ja": "・・・したい気がする"
+    },
+    {
+      "no": 673,
+      "en": "be used to doing",
+      "ja": "・・・することに慣れている"
+    },
+    {
+      "no": 674,
+      "en": "cannnot help doing",
+      "ja": "・・・せずにはいられない、・・・せざるを得ない"
+    },
+    {
+      "no": 675,
+      "en": "come close to doing",
+      "ja": "もう少しで・・・しそうになる"
+    },
+    {
+      "no": 676,
+      "en": "with a view to doing",
+      "ja": "・・・する目的で"
+    },
+    {
+      "no": 677,
+      "en": "joking aside",
+      "ja": "冗談はさておき"
+    },
+    {
+      "no": 678,
+      "en": "catch ~ doing",
+      "ja": "が・・・しているところを見つける"
+    },
+    {
+      "no": 679,
+      "en": "speaking of ~",
+      "ja": "〜といえば"
+    },
+    {
+      "no": 680,
+      "en": "judging from ~",
+      "ja": "〜から判断すると"
+    },
+    {
+      "no": 681,
+      "en": "that is  (to say)",
+      "ja": "すなわち、つまり"
+    },
+    {
+      "no": 682,
+      "en": "in itself",
+      "ja": "それ自体では、本来は"
+    },
+    {
+      "no": 683,
+      "en": "to oneself",
+      "ja": "自分だけに"
+    },
+    {
+      "no": 684,
+      "en": "one after another",
+      "ja": "次々に"
+    },
+    {
+      "no": 685,
+      "en": "none other than ~",
+      "ja": "ほかならぬ〜、まさに〜"
+    },
+    {
+      "no": 686,
+      "en": "would rather do (than ~)",
+      "ja": "むしろ・・・したい"
+    },
+    {
+      "no": 687,
+      "en": "as many as ~",
+      "ja": "〜もの数の"
+    },
+    {
+      "no": 688,
+      "en": "as good as ~",
+      "ja": "〜も同然、ほとんど〜"
+    },
+    {
+      "no": 689,
+      "en": "as ~ as any",
+      "ja": "誰にも劣らず〜"
+    },
+    {
+      "no": 690,
+      "en": "all the + 比較級",
+      "ja": "ますます〜、それだけいっそう〜"
+    },
+    {
+      "no": 691,
+      "en": "that much + 比較級",
+      "ja": "それだけいっそう"
+    },
+    {
+      "no": 692,
+      "en": "much less",
+      "ja": "まして〜はない"
+    },
+    {
+      "no": 693,
+      "en": "what is more",
+      "ja": "さらに、おまけに"
+    },
+    {
+      "no": 694,
+      "en": "know better (than to do)",
+      "ja": "分別がある、ばかではない"
+    },
+    {
+      "no": 695,
+      "en": "Couldn't be better.",
+      "ja": "最高です。これ以上よい状態はあり得ない。"
+    },
+    {
+      "no": 696,
+      "en": "worse still",
+      "ja": "いっそう悪いことに"
+    },
+    {
+      "no": 697,
+      "en": "to the best of one's knowledge",
+      "ja": "の知る限り"
+    },
+    {
+      "no": 698,
+      "en": "not ~ (in) the least",
+      "ja": "まったく〜ない"
+    },
+    {
+      "no": 699,
+      "en": "to the full",
+      "ja": "心ゆくまでに、十分に"
+    },
+    {
+      "no": 700,
+      "en": "by far",
+      "ja": "はるかに、ずっと"
+    },
+    {
+      "no": 701,
+      "en": "provided (that) …",
+      "ja": "もし・・・ならば"
+    },
+    {
+      "no": 702,
+      "en": "ever time …",
+      "ja": "・・・するたびに"
+    },
+    {
+      "no": 703,
+      "en": "the moment …",
+      "ja": "・・・するとすぐに"
+    },
+    {
+      "no": 704,
+      "en": "when it comes to ~",
+      "ja": "〜のこととなると"
+    },
+    {
+      "no": 705,
+      "en": "at it is",
+      "ja": "実際のところは"
+    },
+    {
+      "no": 706,
+      "en": "as far as ~ be concerned",
+      "ja": "〜に関する限り"
+    },
+    {
+      "no": 707,
+      "en": "as follows",
+      "ja": "次のとおり"
+    },
+    {
+      "no": 708,
+      "en": "as is often the case (with ~)",
+      "ja": "よくあることだが"
+    },
+    {
+      "no": 709,
+      "en": "as ~ go",
+      "ja": "一般の〜と比べると、〜としては"
+    },
+    {
+      "no": 710,
+      "en": "if only …",
+      "ja": "・・・でありさえすれば"
+    },
+    {
+      "no": 711,
+      "en": "if it were not for ~",
+      "ja": "もし〜がなければ"
+    },
+    {
+      "no": 712,
+      "en": "(in) the way …",
+      "ja": "・・・から判断すると"
+    },
+    {
+      "no": 713,
+      "en": "~ to death",
+      "ja": "死ぬまで〜"
+    },
+    {
+      "no": 714,
+      "en": "with ease",
+      "ja": "容易に"
+    },
+    {
+      "no": 715,
+      "en": "believe it or not",
+      "ja": "まさかと思うような話だが"
+    },
+    {
+      "no": 716,
+      "en": "not all that ~",
+      "ja": "それほど〜ではない"
+    },
+    {
+      "no": 717,
+      "en": "the + 比較級 ~, the + 比較級 ...",
+      "ja": "〜であればあるほど、いっそう・・・"
+    },
+    {
+      "no": 718,
+      "en": "(Just) As ~, so …",
+      "ja": "〜であるように、・・・だ。"
+    },
+    {
+      "no": 719,
+      "en": "(It is) No wonder (that) …",
+      "ja": "・・・なのは当然だ。"
+    },
+    {
+      "no": 720,
+      "en": "It happens that …",
+      "ja": "たまたまだ・・・だ。、折よく・・・だ。"
+    },
+    {
+      "no": 721,
+      "en": "(The) Chances are (that) …",
+      "ja": "ひょっとしたら・・・だろう。"
+    },
+    {
+      "no": 722,
+      "en": "There is no doing.",
+      "ja": "・・・することはできない。"
+    },
+    {
+      "no": 723,
+      "en": "not so much A as B",
+      "ja": "AというよりB"
+    },
+    {
+      "no": 724,
+      "en": "hardly ~ when …",
+      "ja": "〜するかしないうちに・・・"
+    },
+    {
+      "no": 725,
+      "en": "never do without ~",
+      "ja": "・・・すれば必ず〜する"
+    },
+    {
+      "no": 726,
+      "en": "It goes without saying that …",
+      "ja": "・・・なのは言うまでもない。"
+    },
+    {
+      "no": 727,
+      "en": "(It is) True ~, but …",
+      "ja": "確かに〜だが、・・・だ。"
+    },
+    {
+      "no": 728,
+      "en": "It is not long before …",
+      "ja": "・・・するのに長くはかからない。、間もなく・・・する。"
+    },
+    {
+      "no": 729,
+      "en": "It is (high) time (that) …",
+      "ja": "・・・してよいころだ。"
+    },
+    {
+      "no": 730,
+      "en": "no sooner ~ than …",
+      "ja": "〜するやいなや・・・する"
+    },
+    {
+      "no": 731,
+      "en": "It is no use doing.",
+      "ja": "・・・しても無駄である。"
+    },
+    {
+      "no": 732,
+      "en": "It is not until ~ that …",
+      "ja": "〜になって初めて・・・する。"
+    },
+    {
+      "no": 733,
+      "en": "A is to B what C is to D.",
+      "ja": "AのBに対する関係はCのDに対する関係に等しい。"
+    },
+    {
+      "no": 734,
+      "en": "not so much as do",
+      "ja": "・・・さえしない"
+    },
+    {
+      "no": 735,
+      "en": "Nothing is more A than B.",
+      "ja": "BほどAなものはない。"
+    },
+    {
+      "no": 736,
+      "en": "the former ~, the latter …",
+      "ja": "前者は〜、後者は・・・"
+    },
+    {
+      "no": 737,
+      "en": "A is one thing; B is another",
+      "ja": "AとBとは別のものである"
+    },
+    {
+      "no": 738,
+      "en": "All one has to do is (to) do.",
+      "ja": "ただ・・・すればよい。"
+    },
+    {
+      "no": 739,
+      "en": "Suffice (it) to say that …",
+      "ja": "・・・と言えば十分である。"
+    },
+    {
+      "no": 740,
+      "en": "be to do",
+      "ja": "・・・することになっている"
+    },
+    {
+      "no": 741,
+      "en": "be forced to do",
+      "ja": "やむなく・・・する"
+    },
+    {
+      "no": 742,
+      "en": "be supposed to do",
+      "ja": "・・・することになっている"
+    },
+    {
+      "no": 743,
+      "en": "be to blame (for ~)",
+      "ja": "責めを負うべきである"
+    },
+    {
+      "no": 744,
+      "en": "be entitled to ~",
+      "ja": "〜の資格がある"
+    },
+    {
+      "no": 745,
+      "en": "tend to do",
+      "ja": "・・・する傾向がある、・・・しがちである"
+    },
+    {
+      "no": 746,
+      "en": "happen to do",
+      "ja": "偶然・・・する"
+    },
+    {
+      "no": 747,
+      "en": "manage to do",
+      "ja": "なんとか・・・する"
+    },
+    {
+      "no": 748,
+      "en": "can afford to do",
+      "ja": "・・・する余裕がある"
+    },
+    {
+      "no": 749,
+      "en": "bother to do",
+      "ja": "わざわざ・・・する"
+    },
+    {
+      "no": 750,
+      "en": "come to an end",
+      "ja": "終わる"
+    },
+    {
+      "no": 751,
+      "en": "go so far as to do",
+      "ja": "・・・しさえする"
+    },
+    {
+      "no": 752,
+      "en": "have no (other) choice but to do",
+      "ja": "・・・するよりほかに仕方がない"
+    },
+    {
+      "no": 753,
+      "en": "spend ~ (in) doing",
+      "ja": "・・・して過ごす"
+    },
+    {
+      "no": 754,
+      "en": "make a point of doing",
+      "ja": "必ず・・・するよう努力する、・・・することを重視する"
+    },
+    {
+      "no": 755,
+      "en": "remain to be seen",
+      "ja": "未定である"
+    },
+    {
+      "no": 756,
+      "en": "bring oneself to do",
+      "ja": "・・・する気持ちになる"
+    },
+    {
+      "no": 757,
+      "en": "take the trouble to do",
+      "ja": "わざわざ・・・する"
+    },
+    {
+      "no": 758,
+      "en": "leave nothing to be desired",
+      "ja": "申し分ない"
+    },
+    {
+      "no": 759,
+      "en": "in order to do",
+      "ja": "・・・するために"
+    },
+    {
+      "no": 760,
+      "en": "in that …",
+      "ja": "・・・の点で、・・・のゆえに"
+    },
+    {
+      "no": 761,
+      "en": "as long as …",
+      "ja": "・・・である限り"
+    },
+    {
+      "no": 762,
+      "en": "see (to it) that …",
+      "ja": "・・・するように取り計らう"
+    },
+    {
+      "no": 763,
+      "en": "so that ~ can do",
+      "ja": "〜が・・・できるように"
+    },
+    {
+      "no": 764,
+      "en": "by the time …",
+      "ja": "・・・までに"
+    },
+    {
+      "no": 765,
+      "en": "~, so (that) …",
+      "ja": "〜だ、その結果・・・だ"
+    },
+    {
+      "no": 766,
+      "en": "now that …",
+      "ja": "・・・である以上、今はもう・・・なので"
+    },
+    {
+      "no": 767,
+      "en": "in case …",
+      "ja": "もし・・・ならば"
+    },
+    {
+      "no": 768,
+      "en": "given (that) …",
+      "ja": "・・・を考慮すれば"
+    },
+    {
+      "no": 769,
+      "en": "even as …",
+      "ja": "まさに・・・するときに"
+    },
+    {
+      "no": 770,
+      "en": "if any",
+      "ja": "もしあるとしても"
+    },
+    {
+      "no": 771,
+      "en": "on (the) condition (that) …",
+      "ja": "・・・という条件で、・・・ならば"
+    },
+    {
+      "no": 772,
+      "en": "lest ~ (should) do",
+      "ja": "〜が・・・しないように、〜が・・・するといけないから"
+    },
+    {
+      "no": 773,
+      "en": "what with A and B",
+      "ja": "AやらBやらで"
+    },
+    {
+      "no": 774,
+      "en": "…, and ~ at that",
+      "ja": "・・・だ、その上〜でもある"
+    },
+    {
+      "no": 775,
+      "en": "inasmuch as …",
+      "ja": "・・・だから"
+    },
+    {
+      "no": 776,
+      "en": "just about",
+      "ja": "ほぼ"
+    },
+    {
+      "no": 777,
+      "en": "go ahead",
+      "ja": "先に行く"
+    },
+    {
+      "no": 778,
+      "en": "check out ~",
+      "ja": "〜を見てみる"
+    },
+    {
+      "no": 779,
+      "en": "hold on",
+      "ja": "持ちこたえる、頑張る"
+    },
+    {
+      "no": 780,
+      "en": "hang up (~)",
+      "ja": "切る"
+    },
+    {
+      "no": 781,
+      "en": "give ~ a try",
+      "ja": "〜を試してみる"
+    },
+    {
+      "no": 782,
+      "en": "give ~ a hand",
+      "ja": "〜に手を貸す"
+    },
+    {
+      "no": 783,
+      "en": "call back (~)",
+      "ja": "折り返し電話する、電話をかけ直す"
+    },
+    {
+      "no": 784,
+      "en": "from scratch",
+      "ja": "最初から"
+    },
+    {
+      "no": 785,
+      "en": "see ~ off",
+      "ja": "を見送る"
+    },
+    {
+      "no": 786,
+      "en": "hold one's breath",
+      "ja": "息を止める"
+    },
+    {
+      "no": 787,
+      "en": "at the wheel",
+      "ja": "運転して"
+    },
+    {
+      "no": 788,
+      "en": "having said that",
+      "ja": "そうは言ったものの"
+    },
+    {
+      "no": 789,
+      "en": "on the dot",
+      "ja": "時間ちょうどに、きっかりに"
+    },
+    {
+      "no": 790,
+      "en": "ask ~ a favor",
+      "ja": "にお願いをする"
+    },
+    {
+      "no": 791,
+      "en": "drive at ~",
+      "ja": "〜のつもりである"
+    },
+    {
+      "no": 792,
+      "en": "lose (one's) face",
+      "ja": "面目を失う"
+    },
+    {
+      "no": 793,
+      "en": "before one knows it",
+      "ja": "あっという間に"
+    },
+    {
+      "no": 794,
+      "en": "stick around",
+      "ja": "そこらで待つ"
+    },
+    {
+      "no": 795,
+      "en": "call it a day",
+      "ja": "その日の仕事を終える"
+    },
+    {
+      "no": 796,
+      "en": "have (a) good command of ~",
+      "ja": "を自由に使いこなす力がある"
+    },
+    {
+      "no": 797,
+      "en": "keep one's fingers crossed",
+      "ja": "祈る"
+    },
+    {
+      "no": 798,
+      "en": "pay a visit (to ~)",
+      "ja": "訪問する"
+    },
+    {
+      "no": 799,
+      "en": "serve ~ right",
+      "ja": "〜にとって当然の報いである"
+    },
+    {
+      "no": 800,
+      "en": "go to the polls",
+      "ja": "投票に行く"
+    },
+    {
+      "no": 801,
+      "en": "take office",
+      "ja": "就任する"
+    },
+    {
+      "no": 802,
+      "en": "turn a blind eye to ~",
+      "ja": "〜を見て見ぬふりをする"
+    },
+    {
+      "no": 803,
+      "en": "last but not least",
+      "ja": "最後になったが"
+    },
+    {
+      "no": 804,
+      "en": "know ~ by sight",
+      "ja": "〜の顔を知っている"
+    },
+    {
+      "no": 805,
+      "en": "pull ~'s leg",
+      "ja": "〜をからかう"
+    },
+    {
+      "no": 806,
+      "en": "the bottom line",
+      "ja": "要点"
+    },
+    {
+      "no": 807,
+      "en": "have a look (at~)",
+      "ja": "見る"
+    },
+    {
+      "no": 808,
+      "en": "What … like?",
+      "ja": "・・・はどんなものか。"
+    },
+    {
+      "no": 809,
+      "en": "What … for?",
+      "ja": "どうして・・・か。、何の目的で・・・か。"
+    },
+    {
+      "no": 810,
+      "en": "have no idea",
+      "ja": "見当がつかない"
+    },
+    {
+      "no": 811,
+      "en": "could use ~",
+      "ja": "〜があればありがたい、〜が欲しい"
+    },
+    {
+      "no": 812,
+      "en": "How come (…)?",
+      "ja": "どうして。"
+    },
+    {
+      "no": 813,
+      "en": "take one's time",
+      "ja": "ゆっくりやる、自分のペースでやる"
+    },
+    {
+      "no": 814,
+      "en": "take it easy",
+      "ja": "のんびり構える"
+    },
+    {
+      "no": 815,
+      "en": "My pleasure.",
+      "ja": "どういたしまして。"
+    },
+    {
+      "no": 816,
+      "en": "make oneself understood",
+      "ja": "自分の言うことを相手にわからせる"
+    },
+    {
+      "no": 817,
+      "en": "see much of ~",
+      "ja": "〜によく会う"
+    },
+    {
+      "no": 818,
+      "en": "think again",
+      "ja": "考え直す、考えを変える"
+    },
+    {
+      "no": 819,
+      "en": "help oneself to ~",
+      "ja": "〜を自由に取る"
+    },
+    {
+      "no": 820,
+      "en": "I'm afraid not.",
+      "ja": "残念ながらそうではないようです。"
+    },
+    {
+      "no": 821,
+      "en": "treat A to B",
+      "ja": "AにBをおごる"
+    },
+    {
+      "no": 822,
+      "en": "be fed up with ~",
+      "ja": "〜にうんざりしている"
+    },
+    {
+      "no": 823,
+      "en": "come to think of it",
+      "ja": "考えてみると、そういえば"
+    },
+    {
+      "no": 824,
+      "en": "think much of ~",
+      "ja": "〜を高く評価する、〜を尊敬する"
+    },
+    {
+      "no": 825,
+      "en": "Legend has it (that) … .",
+      "ja": "伝説によると・・・と言うことだ。"
+    },
+    {
+      "no": 826,
+      "en": "Here we are.",
+      "ja": "さぁ着いた。"
+    },
+    {
+      "no": 827,
+      "en": "hit it off (with ~)",
+      "ja": "仲良くなる"
+    },
+    {
+      "no": 828,
+      "en": "watch one's step",
+      "ja": "足元に注意する"
+    },
+    {
+      "no": 829,
+      "en": "give one's regards to ~",
+      "ja": "〜によろしくと伝える"
+    },
+    {
+      "no": 830,
+      "en": "You're kidding (me).",
+      "ja": "冗談でしょう。、まさか。"
+    },
+    {
+      "no": 831,
+      "en": "be susceptible to ~",
+      "ja": "〜の影響を受けやすい"
+    },
+    {
+      "no": 832,
+      "en": "be at odds (with~)",
+      "ja": "食い違っている"
+    },
+    {
+      "no": 833,
+      "en": "be committed to ~",
+      "ja": "〜に献身する"
+    },
+    {
+      "no": 834,
+      "en": "be here to stay",
+      "ja": "定着している"
+    },
+    {
+      "no": 835,
+      "en": "be liable to do",
+      "ja": "・・・しがちである"
+    },
+    {
+      "no": 836,
+      "en": "be intent on ~",
+      "ja": "〜に懸命である"
+    },
+    {
+      "no": 837,
+      "en": "be no match for ~",
+      "ja": "とても〜にはかなわない"
+    },
+    {
+      "no": 838,
+      "en": "be vulnerable to ~",
+      "ja": "に弱い"
+    },
+    {
+      "no": 839,
+      "en": "be eligible for ~",
+      "ja": "〜の資格がある"
+    },
+    {
+      "no": 840,
+      "en": "be worth doing",
+      "ja": "・・・する価値がある"
+    },
+    {
+      "no": 841,
+      "en": "be out to do",
+      "ja": "・・・しようと狙っている"
+    },
+    {
+      "no": 842,
+      "en": "be all ears",
+      "ja": "一心に耳を傾けている"
+    },
+    {
+      "no": 843,
+      "en": "be beside oneself (with ~)",
+      "ja": "我を忘れる、夢中である"
+    },
+    {
+      "no": 844,
+      "en": "be cut out to be ~",
+      "ja": "〜に向いている"
+    },
+    {
+      "no": 845,
+      "en": "be (all) the rage",
+      "ja": "流行している"
+    },
+    {
+      "no": 846,
+      "en": "account for ~",
+      "ja": "〜の説明となる、〜の理由を説明する"
+    },
+    {
+      "no": 847,
+      "en": "allow for~",
+      "ja": "〜を可能にする"
+    },
+    {
+      "no": 848,
+      "en": "settle for ~",
+      "ja": "〜で我慢する"
+    },
+    {
+      "no": 849,
+      "en": "yearn for ~",
+      "ja": "〜を恋しがる、〜にあこがれる"
+    },
+    {
+      "no": 850,
+      "en": "count for ~",
+      "ja": "〜の価値を持つ"
+    },
+    {
+      "no": 851,
+      "en": "cope with ~",
+      "ja": "〜をうまく処理する、〜に対処する"
+    },
+    {
+      "no": 852,
+      "en": "coincide with ~",
+      "ja": "〜と一致する"
+    },
+    {
+      "no": 853,
+      "en": "comply with ~",
+      "ja": "に従う"
+    },
+    {
+      "no": 854,
+      "en": "dispense with ~",
+      "ja": "〜なしですます"
+    },
+    {
+      "no": 855,
+      "en": "attend to ~",
+      "ja": "〜を処理する"
+    },
+    {
+      "no": 856,
+      "en": "aspire to ~",
+      "ja": "〜を熱望する"
+    },
+    {
+      "no": 857,
+      "en": "submit to ~",
+      "ja": "〜に屈する"
+    },
+    {
+      "no": 858,
+      "en": "consent to ~",
+      "ja": "〜に同意する"
+    },
+    {
+      "no": 859,
+      "en": "deal in ~",
+      "ja": "を扱う"
+    },
+    {
+      "no": 860,
+      "en": "persist in ~",
+      "ja": "〜に固執する、〜をやり通す"
+    },
+    {
+      "no": 861,
+      "en": "indulge in ~",
+      "ja": "思う存分〜をする、にふける"
+    },
+    {
+      "no": 862,
+      "en": "embark on ~",
+      "ja": "に乗り出す、〜を始める"
+    },
+    {
+      "no": 863,
+      "en": "dwell on ~",
+      "ja": "〜を詳しく述べる"
+    },
+    {
+      "no": 864,
+      "en": "tell on ~",
+      "ja": "〜に影響する、〜にこたえる"
+    },
+    {
+      "no": 865,
+      "en": "refrain from ~",
+      "ja": "〜を慎む"
+    },
+    {
+      "no": 866,
+      "en": "discriminate against ~",
+      "ja": "〜を差別する"
+    },
+    {
+      "no": 867,
+      "en": "abide by ~",
+      "ja": "に従う、を守る"
+    },
+    {
+      "no": 868,
+      "en": "work out (~)",
+      "ja": "うまくいく"
+    },
+    {
+      "no": 869,
+      "en": "rule out ~",
+      "ja": "を排除する"
+    },
+    {
+      "no": 870,
+      "en": "single out ~",
+      "ja": "〜を選び出す"
+    },
+    {
+      "no": 871,
+      "en": "pass out",
+      "ja": "気絶する"
+    },
+    {
+      "no": 872,
+      "en": "miss out on ~",
+      "ja": "を逃す"
+    },
+    {
+      "no": 873,
+      "en": "wind up (~)",
+      "ja": "〜を終わりにする"
+    },
+    {
+      "no": 874,
+      "en": "pull up (~)",
+      "ja": "〜を引き抜く"
+    },
+    {
+      "no": 875,
+      "en": "throw up (~)",
+      "ja": "〜をさっと上げる"
+    },
+    {
+      "no": 876,
+      "en": "round up ~",
+      "ja": "〜を寄せ集める"
+    },
+    {
+      "no": 877,
+      "en": "catch on",
+      "ja": "人気が出る"
+    },
+    {
+      "no": 878,
+      "en": "get away with ~",
+      "ja": "〜をうまくやる"
+    },
+    {
+      "no": 879,
+      "en": "shy away (from ~)",
+      "ja": "避ける"
+    },
+    {
+      "no": 880,
+      "en": "hang around",
+      "ja": "ぶらつく"
+    },
+    {
+      "no": 881,
+      "en": "get down to ~",
+      "ja": "に本気で取り掛かる"
+    },
+    {
+      "no": 882,
+      "en": "let down",
+      "ja": "〜を失望させる"
+    },
+    {
+      "no": 883,
+      "en": "pull off ~",
+      "ja": "をやってのける"
+    },
+    {
+      "no": 884,
+      "en": "follow through",
+      "ja": "やり遂げる"
+    },
+    {
+      "no": 885,
+      "en": "find oneself",
+      "ja": "〜にいる"
+    },
+    {
+      "no": 886,
+      "en": "make do (with ~)",
+      "ja": "間に合わせる"
+    },
+    {
+      "no": 887,
+      "en": "make good (~)",
+      "ja": "成功する"
+    },
+    {
+      "no": 888,
+      "en": "make (both) ends meet",
+      "ja": "収入内でやりくりする"
+    },
+    {
+      "no": 889,
+      "en": "make believe (that …)",
+      "ja": "ふりをする"
+    },
+    {
+      "no": 890,
+      "en": "take ~ for granted",
+      "ja": "〜を当然のことと思う"
+    },
+    {
+      "no": 891,
+      "en": "take ~ into account",
+      "ja": "〜を考慮に入れる"
+    },
+    {
+      "no": 892,
+      "en": "take hold of ~",
+      "ja": "〜をつかむ"
+    },
+    {
+      "no": 893,
+      "en": "take notice (of ~)",
+      "ja": "注目する、気づく"
+    },
+    {
+      "no": 894,
+      "en": "take effect",
+      "ja": "施行される"
+    },
+    {
+      "no": 895,
+      "en": "take pains",
+      "ja": "骨を折る、努力する"
+    },
+    {
+      "no": 896,
+      "en": "keep track of ~",
+      "ja": "〜を把握する"
+    },
+    {
+      "no": 897,
+      "en": "keep ~ company",
+      "ja": "と一緒にいる、の相手をする"
+    },
+    {
+      "no": 898,
+      "en": "keep abreast of ~",
+      "ja": "に遅れずついて行く"
+    },
+    {
+      "no": 899,
+      "en": "let go of ~",
+      "ja": "〜を手放す"
+    },
+    {
+      "no": 900,
+      "en": "live up to ~",
+      "ja": "に添う"
+    },
+    {
+      "no": 901,
+      "en": "look ~ in the eye(s)",
+      "ja": "〜の目を正視する"
+    },
+    {
+      "no": 902,
+      "en": "hold true",
+      "ja": "当てはまる"
+    },
+    {
+      "no": 903,
+      "en": "come to terms with ~",
+      "ja": "〜と折り合いがつく"
+    },
+    {
+      "no": 904,
+      "en": "come to light",
+      "ja": "明るみに出る、現れる"
+    },
+    {
+      "no": 905,
+      "en": "come of age",
+      "ja": "成人になる"
+    },
+    {
+      "no": 906,
+      "en": "come in handy",
+      "ja": "役に立つ"
+    },
+    {
+      "no": 907,
+      "en": "fall short of ~",
+      "ja": "〜に達しない"
+    },
+    {
+      "no": 908,
+      "en": "go a long way to do",
+      "ja": "・・・するのに大いに役立つ"
+    },
+    {
+      "no": 909,
+      "en": "pave the way for ~",
+      "ja": "〜への準備をする"
+    },
+    {
+      "no": 910,
+      "en": "put ~ to use",
+      "ja": "〜を利用する"
+    },
+    {
+      "no": 911,
+      "en": "stand to reason",
+      "ja": "もっともである、理屈に合う"
+    },
+    {
+      "no": 912,
+      "en": "see the sights (of ~)",
+      "ja": "観光をする"
+    },
+    {
+      "no": 913,
+      "en": "read between the lines",
+      "ja": "行間を読む"
+    },
+    {
+      "no": 914,
+      "en": "follow suit",
+      "ja": "人のまねをする、先例にならう"
+    },
+    {
+      "no": 915,
+      "en": "play a joke on ~",
+      "ja": "〜にいたずらをする"
+    },
+    {
+      "no": 916,
+      "en": "get on ~'s nerves",
+      "ja": "〜の神経にさわる"
+    },
+    {
+      "no": 917,
+      "en": "get the better of ~",
+      "ja": "〜に勝つ"
+    },
+    {
+      "no": 918,
+      "en": "get even with ~",
+      "ja": "に仕返しをする"
+    },
+    {
+      "no": 919,
+      "en": "hold ~ in check",
+      "ja": "〜を抑える"
+    },
+    {
+      "no": 920,
+      "en": "have an eye for ~",
+      "ja": "〜に対する眼識がある"
+    },
+    {
+      "no": 921,
+      "en": "have ~ on one's mind",
+      "ja": "〜を気にしている"
+    },
+    {
+      "no": 922,
+      "en": "have yet to do",
+      "ja": "まだ・・・していない、これから・・・しなければならない"
+    },
+    {
+      "no": 923,
+      "en": "dare to do",
+      "ja": "思い切って・・・する"
+    },
+    {
+      "no": 924,
+      "en": "impose A on B",
+      "ja": "AをBに課す"
+    },
+    {
+      "no": 925,
+      "en": "ascribe A to B",
+      "ja": "AをBのせいにする"
+    },
+    {
+      "no": 926,
+      "en": "bring A home to B",
+      "ja": "AをBに痛感させる"
+    },
+    {
+      "no": 927,
+      "en": "a variety of ~",
+      "ja": "いろいろな〜"
+    },
+    {
+      "no": 928,
+      "en": "a handful of ~",
+      "ja": "一握りの〜"
+    },
+    {
+      "no": 929,
+      "en": "a host of ~",
+      "ja": "多数の〜"
+    },
+    {
+      "no": 930,
+      "en": "scores of ~",
+      "ja": "多数の〜"
+    },
+    {
+      "no": 931,
+      "en": "many a ~",
+      "ja": "多くの〜、あまたの〜"
+    },
+    {
+      "no": 932,
+      "en": "quite a few ~",
+      "ja": "かなりの数の〜"
+    },
+    {
+      "no": 933,
+      "en": "all manner of ~",
+      "ja": "あらゆる種類の〜"
+    },
+    {
+      "no": 934,
+      "en": "(all) on one's own",
+      "ja": "自分1人で"
+    },
+    {
+      "no": 935,
+      "en": "at issue",
+      "ja": "問題の"
+    },
+    {
+      "no": 936,
+      "en": "at ~'s disposal",
+      "ja": "の自由になって"
+    },
+    {
+      "no": 937,
+      "en": "at stake",
+      "ja": "危うくなった"
+    },
+    {
+      "no": 938,
+      "en": "(enough) ~ to go around",
+      "ja": "全員に行き渡るだけの〜"
+    },
+    {
+      "no": 939,
+      "en": "every other ~",
+      "ja": "1つおきの〜、〜おきに"
+    },
+    {
+      "no": 940,
+      "en": "for a rainy day",
+      "ja": "まさかの時に備えて"
+    },
+    {
+      "no": 941,
+      "en": "in earnest",
+      "ja": "本格的に"
+    },
+    {
+      "no": 942,
+      "en": "in (good) shape",
+      "ja": "調子がよくて"
+    },
+    {
+      "no": 943,
+      "en": "in store (for ~)",
+      "ja": "用意して"
+    },
+    {
+      "no": 944,
+      "en": "in the works",
+      "ja": "準備中で"
+    },
+    {
+      "no": 945,
+      "en": "nothing short of ~",
+      "ja": "まさしく〜"
+    },
+    {
+      "no": 946,
+      "en": "~ of one's own",
+      "ja": "自分自身の〜"
+    },
+    {
+      "no": 947,
+      "en": "of one's (own) doing",
+      "ja": "が・・・した"
+    },
+    {
+      "no": 948,
+      "en": "on the move",
+      "ja": "移動中の"
+    },
+    {
+      "no": 949,
+      "en": "on the ~ side",
+      "ja": "〜気味で"
+    },
+    {
+      "no": 950,
+      "en": "out of hand",
+      "ja": "手に負えない"
+    },
+    {
+      "no": 951,
+      "en": "out of the question",
+      "ja": "あり得ない、不可能で"
+    },
+    {
+      "no": 952,
+      "en": "per capita",
+      "ja": "1人当たりの"
+    },
+    {
+      "no": 953,
+      "en": "right as rain",
+      "ja": "すっかり健康で"
+    },
+    {
+      "no": 954,
+      "en": "second to none",
+      "ja": "誰にも劣らない"
+    },
+    {
+      "no": 955,
+      "en": "something of a ~",
+      "ja": "ちょっとした〜、ある程度の〜"
+    },
+    {
+      "no": 956,
+      "en": "upward(s) of ~",
+      "ja": "〜以上"
+    },
+    {
+      "no": 957,
+      "en": "regardless of ~",
+      "ja": "〜にかかわらず、〜に関係なく"
+    },
+    {
+      "no": 958,
+      "en": "in accordance with ~",
+      "ja": "〜に従って"
+    },
+    {
+      "no": 959,
+      "en": "in proportion to ~",
+      "ja": "〜に比例して"
+    },
+    {
+      "no": 960,
+      "en": "in the wake of ~",
+      "ja": "〜の通過後に"
+    },
+    {
+      "no": 961,
+      "en": "as of ~",
+      "ja": "〜現在で、〜の時点で"
+    },
+    {
+      "no": 962,
+      "en": "but for ~",
+      "ja": "〜がないならば"
+    },
+    {
+      "no": 963,
+      "en": "on ~ terms with …",
+      "ja": "・・・と〜の関係で"
+    },
+    {
+      "no": 964,
+      "en": "on the verge of ~",
+      "ja": "〜をしそうで、〜の瀬戸際で"
+    },
+    {
+      "no": 965,
+      "en": "within walking distance of ~",
+      "ja": "〜から歩いて行けるところに"
+    },
+    {
+      "no": 966,
+      "en": "to the effect that …",
+      "ja": "・・・という趣旨の"
+    },
+    {
+      "no": 967,
+      "en": "a case in point",
+      "ja": "適例"
+    },
+    {
+      "no": 968,
+      "en": "the pros and cons",
+      "ja": "賛否両論"
+    },
+    {
+      "no": 969,
+      "en": "the white elephant",
+      "ja": "無用の長物"
+    },
+    {
+      "no": 970,
+      "en": "the elephant in the room",
+      "ja": "誰も触れたがらない話題"
+    },
+    {
+      "no": 971,
+      "en": "part and parcel (of ~)",
+      "ja": "不可分の要素、最重要部分"
+    },
+    {
+      "no": 972,
+      "en": "all along",
+      "ja": "最初からずっと"
+    },
+    {
+      "no": 973,
+      "en": "all too",
+      "ja": "とても、非常に"
+    },
+    {
+      "no": 974,
+      "en": "as such",
+      "ja": "そういうものとして"
+    },
+    {
+      "no": 975,
+      "en": "(at) first hand",
+      "ja": "直接に、じかに"
+    },
+    {
+      "no": 976,
+      "en": "at ~'s convenience",
+      "ja": "〜の都合のよいときに"
+    },
+    {
+      "no": 977,
+      "en": "at short notice",
+      "ja": "急に、即座に"
+    },
+    {
+      "no": 978,
+      "en": "at will",
+      "ja": "思いのままに、随意に"
+    },
+    {
+      "no": 979,
+      "en": "by and large",
+      "ja": "概して"
+    },
+    {
+      "no": 980,
+      "en": "down the road",
+      "ja": "やがては、将来は"
+    },
+    {
+      "no": 981,
+      "en": "early on",
+      "ja": "早い時期に、早くから"
+    },
+    {
+      "no": 982,
+      "en": "for a change",
+      "ja": "気分転換に、たまには"
+    },
+    {
+      "no": 983,
+      "en": "for all I know",
+      "ja": "よくは知らないが、たぶん"
+    },
+    {
+      "no": 984,
+      "en": "for nothing",
+      "ja": "無料で"
+    },
+    {
+      "no": 985,
+      "en": "if anything",
+      "ja": "どちらかと言えば"
+    },
+    {
+      "no": 986,
+      "en": "in a row",
+      "ja": "連続して"
+    },
+    {
+      "no": 987,
+      "en": "in person",
+      "ja": "じかに、自ら"
+    },
+    {
+      "no": 988,
+      "en": "in retrospect",
+      "ja": "振り返って"
+    },
+    {
+      "no": 989,
+      "en": "more often than not",
+      "ja": "普通は、たいてい"
+    },
+    {
+      "no": 990,
+      "en": "on second thought",
+      "ja": "考え直してみて"
+    },
+    {
+      "no": 991,
+      "en": "on the face of it",
+      "ja": "見たところは、表面上は"
+    },
+    {
+      "no": 992,
+      "en": "on the spot",
+      "ja": "その場で、即座に"
+    },
+    {
+      "no": 993,
+      "en": "once (and) for all",
+      "ja": "きっぱりと、これを最後に"
+    },
+    {
+      "no": 994,
+      "en": "one of these days",
+      "ja": "そのうちに"
+    },
+    {
+      "no": 995,
+      "en": "once upona time",
+      "ja": "昔々"
+    },
+    {
+      "no": 996,
+      "en": "only too",
+      "ja": "とても、大いに"
+    },
+    {
+      "no": 997,
+      "en": "sort of",
+      "ja": "ちょっと"
+    },
+    {
+      "no": 998,
+      "en": "such as it is",
+      "ja": "大したものではないが、こんな程度のものだが"
+    },
+    {
+      "no": 999,
+      "en": "the other way around",
+      "ja": "逆に、あべこべに"
+    },
+    {
+      "no": 1000,
+      "en": "to date",
+      "ja": "現在まで"
+    }
+  ]
+}

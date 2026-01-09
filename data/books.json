@@ -1,0 +1,26 @@
+[
+  {
+    "id": "book_75ab649310",
+    "title": "LEAP",
+    "count": 2300,
+    "cover": "covers/leap.png"
+  },
+  {
+    "id": "book_c20838419e",
+    "title": "ターゲット1000",
+    "count": 1000,
+    "cover": "covers/target1000.png"
+  },
+  {
+    "id": "book_3986f8276f",
+    "title": "ターゲット1400R",
+    "count": 1100,
+    "cover": "covers/target1400r.png"
+  },
+  {
+    "id": "book_356e42c866",
+    "title": "ターゲット1900",
+    "count": 1900,
+    "cover": "covers/target1900.png"
+  }
+]

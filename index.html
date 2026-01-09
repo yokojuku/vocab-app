@@ -1,0 +1,181 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>英単語ランダムテスト</title>
+
+  <link rel="manifest" href="/manifest.webmanifest">
+  <meta name="theme-color" content="#ffffff">
+
+  <style>
+    body { font-family: system-ui, -apple-system, sans-serif; margin: 16px; }
+    .card { border: 1px solid #ddd; border-radius: 12px; padding: 12px; margin-bottom: 12px; }
+    label { display:block; margin: 10px 0 6px; font-weight: 600; }
+
+    /* iPhoneの自動ズーム回避（16px以上） */
+    select, input {
+      width: 100%;
+      padding: 10px;
+      border-radius: 10px;
+      border: 1px solid #ccc;
+      font-size: 16px;
+      box-sizing: border-box;
+    }
+
+    button { padding: 10px 12px; border-radius: 10px; border: 1px solid #888; background: #fff; }
+    button.primary { font-weight: 700; }
+    .row { display:flex; gap: 8px; flex-wrap: wrap; }
+    .row > * { flex: 1; min-width: 120px; }
+    .muted { color:#666; font-size: 14px; }
+    .hidden { display:none !important; }
+    .warn { color:#b00020; font-weight: 700; }
+
+    /* ====== テーブル（ズレ防止） ====== */
+    .tableWrap { overflow-x: auto; margin-top: 10px; }
+    table.qaTable { width: 100%; border-collapse: collapse; table-layout: fixed; }
+    .qaTable th, .qaTable td { padding: 10px; vertical-align: top; word-break: break-word; }
+    .qaTable thead th { text-align: left; border-bottom: 2px solid #ddd; font-weight: 700; }
+    .qaTable tbody tr { border-bottom: 1px solid #e6e6e6; }
+    .qaTable .colEn { width: 50%; }
+    .qaTable .colJa { width: 50%; }
+
+    /* 答え（日本語）を赤文字に */
+    .answerCell { color: #b00020; font-weight: 700; }
+    .answerHidden { color: transparent; user-select: none; }
+
+    /* ====== バナー ====== */
+    .bannerWrap { margin: 10px 0 12px; }
+    .bannerImg {
+      width: 100%;
+      max-width: 100%;
+      height: auto;
+      border-radius: 12px;
+      border: 1px solid #ddd;
+      display: block;
+      background: #fff;
+    }
+
+    /* ====== ストップウォッチ表示（希望位置：ボタン下・中央） ====== */
+    #timerText {
+      text-align: center;
+      font-weight: 800;
+      font-size: 20px;
+      letter-spacing: .5px;
+      margin: 6px 0 10px; /* ボタンの下、テスト見出しの上 */
+    }
+
+    /* ====== 名前入力モーダル（キャンセル無し） ====== */
+    .modal {
+      position: fixed;
+      inset: 0;
+      background: rgba(0,0,0,.45);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      z-index: 9999;
+      padding: 16px;
+    }
+    .modalBox {
+      width: min(420px, 100%);
+      background: #fff;
+      border-radius: 14px;
+      padding: 16px;
+      border: 1px solid #ddd;
+      box-shadow: 0 12px 30px rgba(0,0,0,.18);
+    }
+    .modalBox h3 { margin: 0 0 12px; }
+    .modalActions { margin-top: 10px; display:flex; gap: 8px; }
+    .modalActions button { flex: 1; }
+  </style>
+</head>
+<body>
+
+  <div id="screen-setup" class="card">
+    <h2>英単語ランダムテスト</h2>
+
+    <label>単語帳を選ぶ</label>
+    <select id="bookSelect"></select>
+    <div id="bookInfo" class="muted"></div>
+
+    <!-- セットアップ画面バナー（未選択は非表示） -->
+    <div id="setupBannerWrap" class="bannerWrap hidden" aria-hidden="true">
+      <img id="setupBannerImg" class="bannerImg hidden" alt="単語帳のバナー">
+    </div>
+
+    <label>番号を指定（何番〜何番）</label>
+    <div class="row">
+      <input id="startNo" type="number" min="1" placeholder="開始No" inputmode="numeric" />
+      <input id="endNo" type="number" min="1" placeholder="終了No" inputmode="numeric" />
+    </div>
+
+    <label> </label>
+    <div class="row">
+      <button id="generateBtn" class="primary">テスト</button>
+    </div>
+
+    <div id="setupError" class="warn" style="margin-top:10px;"></div>
+  </div>
+
+  <div id="screen-test" class="card hidden">
+    <h3 id="testTitle"></h3>
+
+    <!-- テスト画面バナー -->
+    <div id="testBannerWrap" class="bannerWrap hidden" aria-hidden="true">
+      <img id="testBannerImg" class="bannerImg hidden" alt="単語帳のバナー">
+    </div>
+
+    <!-- 範囲/出題数（ここはそのまま） -->
+    <div class="muted" id="testMeta"></div>
+
+    <div class="row" style="margin: 10px 0;">
+      <button id="showAnswerBtn">答えを表示</button>
+      <button id="retryBtn" class="hidden">リトライ</button>
+      <button id="backBtn">戻る</button>
+    </div>
+
+    <!-- ✅ タイマー：ボタンの下 / テスト見出しの上 / 中央 -->
+    <div id="timerText">00:00</div>
+
+    <h4>テスト</h4>
+
+    <div class="tableWrap">
+      <table class="qaTable">
+        <thead>
+          <tr>
+            <th class="colEn">英単語</th>
+            <th class="colJa">答え（単語No.）</th>
+          </tr>
+        </thead>
+        <tbody id="qaBody"></tbody>
+      </table>
+    </div>
+
+    <div id="testError" class="warn" style="margin-top:10px;"></div>
+  </div>
+
+  <!-- ✅ 名前入力モーダル（キャンセル無し） -->
+  <div id="nameModal" class="modal hidden" aria-hidden="true">
+    <div class="modalBox">
+      <h3>名前を入力してね</h3>
+
+      <input id="nameInput" type="text" placeholder="名前を入力" autocomplete="nickname" />
+
+      <div id="nameError" class="warn" style="min-height:1.2em;"></div>
+
+      <div class="modalActions">
+        <button id="nameOkBtn" class="primary">OK</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+  <script>
+    if ("serviceWorker" in navigator) {
+      window.addEventListener("load", () => {
+        navigator.serviceWorker.register("/sw.js");
+      });
+    }
+  </script>
+</body>
+</html>
